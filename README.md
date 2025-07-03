@@ -1,2 +1,0 @@
-# PharmaConnect
-MR OPTIMIZATION
