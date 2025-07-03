@@ -1,0 +1,2099 @@
+product_name: Med-001
+composition: Aspirin 75mg
+usage: Pain relief
+precautions: Take after meals
+MRP: ₹52
+manufacturer: Cipla
+---
+product_name: Med-002
+composition: Ibuprofen 400mg
+usage: Bacterial infection
+precautions: Avoid if allergic
+MRP: ₹16
+manufacturer: Dr. Reddy's
+---
+product_name: Med-003
+composition: Paracetamol 650mg
+usage: Pain relief
+precautions: Consult doctor if pregnant
+MRP: ₹72
+manufacturer: Dr. Reddy's
+---
+product_name: Med-004
+composition: Aspirin 75mg
+usage: Diabetes control
+precautions: Do not exceed dose
+MRP: ₹77
+manufacturer: Glenmark
+---
+product_name: Med-005
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Avoid alcohol
+MRP: ₹66
+manufacturer: Micro Labs
+---
+product_name: Med-006
+composition: Aspirin 75mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹91
+manufacturer: Lupin
+---
+product_name: Med-007
+composition: Ibuprofen 400mg
+usage: Pain relief
+precautions: Avoid alcohol
+MRP: ₹63
+manufacturer: Dr. Reddy's
+---
+product_name: Med-008
+composition: Paracetamol 650mg
+usage: Anti-inflammatory
+precautions: Take after meals
+MRP: ₹27
+manufacturer: Micro Labs
+---
+product_name: Med-009
+composition: Metformin 500mg
+usage: Pain relief
+precautions: Do not exceed dose
+MRP: ₹10
+manufacturer: Sun Pharma
+---
+product_name: Med-010
+composition: Ibuprofen 400mg
+usage: Anti-inflammatory
+precautions: Avoid if allergic
+MRP: ₹22
+manufacturer: Sun Pharma
+---
+product_name: Med-011
+composition: Ibuprofen 400mg
+usage: Pain relief
+precautions: Take after meals
+MRP: ₹74
+manufacturer: Glenmark
+---
+product_name: Med-012
+composition: Amoxicillin 500mg
+usage: Cardiac care
+precautions: Consult doctor if pregnant
+MRP: ₹139
+manufacturer: Lupin
+---
+product_name: Med-013
+composition: Paracetamol 650mg
+usage: Diabetes control
+precautions: Take after meals
+MRP: ₹34
+manufacturer: Lupin
+---
+product_name: Med-014
+composition: Ciprofloxacin 250mg
+usage: Pain relief
+precautions: Take after meals
+MRP: ₹116
+manufacturer: Sun Pharma
+---
+product_name: Med-015
+composition: Aspirin 75mg
+usage: Pain relief
+precautions: Avoid alcohol
+MRP: ₹47
+manufacturer: Dr. Reddy's
+---
+product_name: Med-016
+composition: Aspirin 75mg
+usage: Bacterial infection
+precautions: Avoid alcohol
+MRP: ₹91
+manufacturer: Cipla
+---
+product_name: Med-017
+composition: Metformin 500mg
+usage: Fever reduction
+precautions: Take after meals
+MRP: ₹47
+manufacturer: Sun Pharma
+---
+product_name: Med-018
+composition: Paracetamol 650mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹146
+manufacturer: Glenmark
+---
+product_name: Med-019
+composition: Metformin 500mg
+usage: Cardiac care
+precautions: Do not exceed dose
+MRP: ₹16
+manufacturer: Cipla
+---
+product_name: Med-020
+composition: Ibuprofen 400mg
+usage: Pain relief
+precautions: Take after meals
+MRP: ₹49
+manufacturer: Cipla
+---
+product_name: Med-021
+composition: Ciprofloxacin 250mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹108
+manufacturer: Glenmark
+---
+product_name: Med-022
+composition: Amoxicillin 500mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹129
+manufacturer: Dr. Reddy's
+---
+product_name: Med-023
+composition: Aspirin 75mg
+usage: Anti-inflammatory
+precautions: Take after meals
+MRP: ₹57
+manufacturer: Cipla
+---
+product_name: Med-024
+composition: Aspirin 75mg
+usage: Anti-inflammatory
+precautions: Not for children
+MRP: ₹119
+manufacturer: Dr. Reddy's
+---
+product_name: Med-025
+composition: Ciprofloxacin 250mg
+usage: Anti-inflammatory
+precautions: Do not exceed dose
+MRP: ₹129
+manufacturer: Dr. Reddy's
+---
+product_name: Med-026
+composition: Ciprofloxacin 250mg
+usage: Diabetes control
+precautions: Not for children
+MRP: ₹12
+manufacturer: Dr. Reddy's
+---
+product_name: Med-027
+composition: Metformin 500mg
+usage: Pain relief
+precautions: Take after meals
+MRP: ₹144
+manufacturer: Cipla
+---
+product_name: Med-028
+composition: Ibuprofen 400mg
+usage: Cardiac care
+precautions: Not for children
+MRP: ₹87
+manufacturer: Lupin
+---
+product_name: Med-029
+composition: Aspirin 75mg
+usage: Cardiac care
+precautions: Not for children
+MRP: ₹130
+manufacturer: Cipla
+---
+product_name: Med-030
+composition: Aspirin 75mg
+usage: Bacterial infection
+precautions: Avoid alcohol
+MRP: ₹100
+manufacturer: Glenmark
+---
+product_name: Med-031
+composition: Ciprofloxacin 250mg
+usage: Fever reduction
+precautions: Do not exceed dose
+MRP: ₹63
+manufacturer: Cipla
+---
+product_name: Med-032
+composition: Metformin 500mg
+usage: Bacterial infection
+precautions: Take after meals
+MRP: ₹39
+manufacturer: Micro Labs
+---
+product_name: Med-033
+composition: Ibuprofen 400mg
+usage: Fever reduction
+precautions: Take after meals
+MRP: ₹123
+manufacturer: Cipla
+---
+product_name: Med-034
+composition: Paracetamol 650mg
+usage: Anti-inflammatory
+precautions: Avoid if allergic
+MRP: ₹28
+manufacturer: Cipla
+---
+product_name: Med-035
+composition: Ibuprofen 400mg
+usage: Cardiac care
+precautions: Consult doctor if pregnant
+MRP: ₹133
+manufacturer: Glenmark
+---
+product_name: Med-036
+composition: Aspirin 75mg
+usage: Cardiac care
+precautions: Avoid if allergic
+MRP: ₹60
+manufacturer: Micro Labs
+---
+product_name: Med-037
+composition: Ciprofloxacin 250mg
+usage: Bacterial infection
+precautions: Not for children
+MRP: ₹137
+manufacturer: Dr. Reddy's
+---
+product_name: Med-038
+composition: Ibuprofen 400mg
+usage: Cardiac care
+precautions: Do not exceed dose
+MRP: ₹83
+manufacturer: Dr. Reddy's
+---
+product_name: Med-039
+composition: Metformin 500mg
+usage: Fever reduction
+precautions: Avoid if allergic
+MRP: ₹121
+manufacturer: Sun Pharma
+---
+product_name: Med-040
+composition: Paracetamol 650mg
+usage: Pain relief
+precautions: Do not exceed dose
+MRP: ₹101
+manufacturer: Dr. Reddy's
+---
+product_name: Med-041
+composition: Amoxicillin 500mg
+usage: Fever reduction
+precautions: Consult doctor if pregnant
+MRP: ₹33
+manufacturer: Cipla
+---
+product_name: Med-042
+composition: Ibuprofen 400mg
+usage: Cardiac care
+precautions: Consult doctor if pregnant
+MRP: ₹86
+manufacturer: Dr. Reddy's
+---
+product_name: Med-043
+composition: Ibuprofen 400mg
+usage: Fever reduction
+precautions: Consult doctor if pregnant
+MRP: ₹92
+manufacturer: Glenmark
+---
+product_name: Med-044
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Consult doctor if pregnant
+MRP: ₹85
+manufacturer: Cipla
+---
+product_name: Med-045
+composition: Ibuprofen 400mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹127
+manufacturer: Dr. Reddy's
+---
+product_name: Med-046
+composition: Amoxicillin 500mg
+usage: Diabetes control
+precautions: Avoid if allergic
+MRP: ₹27
+manufacturer: Cipla
+---
+product_name: Med-047
+composition: Amoxicillin 500mg
+usage: Diabetes control
+precautions: Not for children
+MRP: ₹76
+manufacturer: Micro Labs
+---
+product_name: Med-048
+composition: Ciprofloxacin 250mg
+usage: Pain relief
+precautions: Take after meals
+MRP: ₹118
+manufacturer: Sun Pharma
+---
+product_name: Med-049
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Consult doctor if pregnant
+MRP: ₹22
+manufacturer: Sun Pharma
+---
+product_name: Med-050
+composition: Paracetamol 650mg
+usage: Diabetes control
+precautions: Avoid alcohol
+MRP: ₹138
+manufacturer: Cipla
+---
+product_name: Med-051
+composition: Paracetamol 650mg
+usage: Fever reduction
+precautions: Do not exceed dose
+MRP: ₹52
+manufacturer: Sun Pharma
+---
+product_name: Med-052
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Not for children
+MRP: ₹88
+manufacturer: Glenmark
+---
+product_name: Med-053
+composition: Metformin 500mg
+usage: Cardiac care
+precautions: Consult doctor if pregnant
+MRP: ₹53
+manufacturer: Micro Labs
+---
+product_name: Med-054
+composition: Ibuprofen 400mg
+usage: Diabetes control
+precautions: Avoid alcohol
+MRP: ₹37
+manufacturer: Lupin
+---
+product_name: Med-055
+composition: Ciprofloxacin 250mg
+usage: Diabetes control
+precautions: Take after meals
+MRP: ₹83
+manufacturer: Micro Labs
+---
+product_name: Med-056
+composition: Paracetamol 650mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹50
+manufacturer: Cipla
+---
+product_name: Med-057
+composition: Ciprofloxacin 250mg
+usage: Pain relief
+precautions: Take after meals
+MRP: ₹95
+manufacturer: Sun Pharma
+---
+product_name: Med-058
+composition: Ciprofloxacin 250mg
+usage: Fever reduction
+precautions: Not for children
+MRP: ₹40
+manufacturer: Lupin
+---
+product_name: Med-059
+composition: Ciprofloxacin 250mg
+usage: Fever reduction
+precautions: Not for children
+MRP: ₹127
+manufacturer: Sun Pharma
+---
+product_name: Med-060
+composition: Ibuprofen 400mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹19
+manufacturer: Micro Labs
+---
+product_name: Med-061
+composition: Ibuprofen 400mg
+usage: Diabetes control
+precautions: Do not exceed dose
+MRP: ₹125
+manufacturer: Cipla
+---
+product_name: Med-062
+composition: Metformin 500mg
+usage: Cardiac care
+precautions: Not for children
+MRP: ₹92
+manufacturer: Lupin
+---
+product_name: Med-063
+composition: Ciprofloxacin 250mg
+usage: Anti-inflammatory
+precautions: Take after meals
+MRP: ₹90
+manufacturer: Micro Labs
+---
+product_name: Med-064
+composition: Ciprofloxacin 250mg
+usage: Fever reduction
+precautions: Consult doctor if pregnant
+MRP: ₹119
+manufacturer: Sun Pharma
+---
+product_name: Med-065
+composition: Ciprofloxacin 250mg
+usage: Diabetes control
+precautions: Avoid alcohol
+MRP: ₹148
+manufacturer: Lupin
+---
+product_name: Med-066
+composition: Amoxicillin 500mg
+usage: Fever reduction
+precautions: Avoid if allergic
+MRP: ₹123
+manufacturer: Dr. Reddy's
+---
+product_name: Med-067
+composition: Amoxicillin 500mg
+usage: Bacterial infection
+precautions: Consult doctor if pregnant
+MRP: ₹104
+manufacturer: Dr. Reddy's
+---
+product_name: Med-068
+composition: Paracetamol 650mg
+usage: Fever reduction
+precautions: Avoid if allergic
+MRP: ₹101
+manufacturer: Micro Labs
+---
+product_name: Med-069
+composition: Ibuprofen 400mg
+usage: Diabetes control
+precautions: Consult doctor if pregnant
+MRP: ₹45
+manufacturer: Dr. Reddy's
+---
+product_name: Med-070
+composition: Aspirin 75mg
+usage: Anti-inflammatory
+precautions: Do not exceed dose
+MRP: ₹90
+manufacturer: Glenmark
+---
+product_name: Med-071
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Not for children
+MRP: ₹38
+manufacturer: Lupin
+---
+product_name: Med-072
+composition: Ciprofloxacin 250mg
+usage: Diabetes control
+precautions: Avoid alcohol
+MRP: ₹45
+manufacturer: Glenmark
+---
+product_name: Med-073
+composition: Metformin 500mg
+usage: Cardiac care
+precautions: Take after meals
+MRP: ₹150
+manufacturer: Lupin
+---
+product_name: Med-074
+composition: Amoxicillin 500mg
+usage: Anti-inflammatory
+precautions: Not for children
+MRP: ₹26
+manufacturer: Dr. Reddy's
+---
+product_name: Med-075
+composition: Ciprofloxacin 250mg
+usage: Diabetes control
+precautions: Take after meals
+MRP: ₹22
+manufacturer: Sun Pharma
+---
+product_name: Med-076
+composition: Ciprofloxacin 250mg
+usage: Anti-inflammatory
+precautions: Avoid if allergic
+MRP: ₹123
+manufacturer: Glenmark
+---
+product_name: Med-077
+composition: Amoxicillin 500mg
+usage: Anti-inflammatory
+precautions: Take after meals
+MRP: ₹126
+manufacturer: Dr. Reddy's
+---
+product_name: Med-078
+composition: Ciprofloxacin 250mg
+usage: Diabetes control
+precautions: Not for children
+MRP: ₹86
+manufacturer: Micro Labs
+---
+product_name: Med-079
+composition: Amoxicillin 500mg
+usage: Cardiac care
+precautions: Consult doctor if pregnant
+MRP: ₹75
+manufacturer: Micro Labs
+---
+product_name: Med-080
+composition: Ciprofloxacin 250mg
+usage: Diabetes control
+precautions: Consult doctor if pregnant
+MRP: ₹26
+manufacturer: Cipla
+---
+product_name: Med-081
+composition: Ciprofloxacin 250mg
+usage: Cardiac care
+precautions: Avoid alcohol
+MRP: ₹143
+manufacturer: Dr. Reddy's
+---
+product_name: Med-082
+composition: Aspirin 75mg
+usage: Diabetes control
+precautions: Take after meals
+MRP: ₹101
+manufacturer: Sun Pharma
+---
+product_name: Med-083
+composition: Paracetamol 650mg
+usage: Pain relief
+precautions: Avoid alcohol
+MRP: ₹71
+manufacturer: Dr. Reddy's
+---
+product_name: Med-084
+composition: Paracetamol 650mg
+usage: Anti-inflammatory
+precautions: Take after meals
+MRP: ₹90
+manufacturer: Micro Labs
+---
+product_name: Med-085
+composition: Ibuprofen 400mg
+usage: Pain relief
+precautions: Take after meals
+MRP: ₹53
+manufacturer: Cipla
+---
+product_name: Med-086
+composition: Ciprofloxacin 250mg
+usage: Cardiac care
+precautions: Do not exceed dose
+MRP: ₹99
+manufacturer: Micro Labs
+---
+product_name: Med-087
+composition: Amoxicillin 500mg
+usage: Fever reduction
+precautions: Do not exceed dose
+MRP: ₹128
+manufacturer: Dr. Reddy's
+---
+product_name: Med-088
+composition: Paracetamol 650mg
+usage: Diabetes control
+precautions: Not for children
+MRP: ₹105
+manufacturer: Cipla
+---
+product_name: Med-089
+composition: Metformin 500mg
+usage: Pain relief
+precautions: Do not exceed dose
+MRP: ₹60
+manufacturer: Sun Pharma
+---
+product_name: Med-090
+composition: Paracetamol 650mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹143
+manufacturer: Glenmark
+---
+product_name: Med-091
+composition: Aspirin 75mg
+usage: Cardiac care
+precautions: Not for children
+MRP: ₹119
+manufacturer: Glenmark
+---
+product_name: Med-092
+composition: Paracetamol 650mg
+usage: Pain relief
+precautions: Not for children
+MRP: ₹84
+manufacturer: Dr. Reddy's
+---
+product_name: Med-093
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Not for children
+MRP: ₹130
+manufacturer: Dr. Reddy's
+---
+product_name: Med-094
+composition: Paracetamol 650mg
+usage: Diabetes control
+precautions: Consult doctor if pregnant
+MRP: ₹142
+manufacturer: Dr. Reddy's
+---
+product_name: Med-095
+composition: Aspirin 75mg
+usage: Anti-inflammatory
+precautions: Consult doctor if pregnant
+MRP: ₹51
+manufacturer: Lupin
+---
+product_name: Med-096
+composition: Paracetamol 650mg
+usage: Bacterial infection
+precautions: Not for children
+MRP: ₹132
+manufacturer: Sun Pharma
+---
+product_name: Med-097
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Not for children
+MRP: ₹68
+manufacturer: Sun Pharma
+---
+product_name: Med-098
+composition: Metformin 500mg
+usage: Cardiac care
+precautions: Take after meals
+MRP: ₹68
+manufacturer: Cipla
+---
+product_name: Med-099
+composition: Ciprofloxacin 250mg
+usage: Diabetes control
+precautions: Consult doctor if pregnant
+MRP: ₹141
+manufacturer: Lupin
+---
+product_name: Med-100
+composition: Ibuprofen 400mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹14
+manufacturer: Dr. Reddy's
+---
+product_name: Med-101
+composition: Aspirin 75mg
+usage: Bacterial infection
+precautions: Consult doctor if pregnant
+MRP: ₹68
+manufacturer: Dr. Reddy's
+---
+product_name: Med-102
+composition: Ciprofloxacin 250mg
+usage: Pain relief
+precautions: Consult doctor if pregnant
+MRP: ₹95
+manufacturer: Lupin
+---
+product_name: Med-103
+composition: Amoxicillin 500mg
+usage: Anti-inflammatory
+precautions: Avoid alcohol
+MRP: ₹103
+manufacturer: Dr. Reddy's
+---
+product_name: Med-104
+composition: Ibuprofen 400mg
+usage: Anti-inflammatory
+precautions: Consult doctor if pregnant
+MRP: ₹106
+manufacturer: Glenmark
+---
+product_name: Med-105
+composition: Ciprofloxacin 250mg
+usage: Pain relief
+precautions: Avoid if allergic
+MRP: ₹139
+manufacturer: Cipla
+---
+product_name: Med-106
+composition: Paracetamol 650mg
+usage: Bacterial infection
+precautions: Consult doctor if pregnant
+MRP: ₹64
+manufacturer: Dr. Reddy's
+---
+product_name: Med-107
+composition: Metformin 500mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹113
+manufacturer: Sun Pharma
+---
+product_name: Med-108
+composition: Ibuprofen 400mg
+usage: Diabetes control
+precautions: Consult doctor if pregnant
+MRP: ₹49
+manufacturer: Micro Labs
+---
+product_name: Med-109
+composition: Ciprofloxacin 250mg
+usage: Diabetes control
+precautions: Take after meals
+MRP: ₹91
+manufacturer: Micro Labs
+---
+product_name: Med-110
+composition: Paracetamol 650mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹65
+manufacturer: Cipla
+---
+product_name: Med-111
+composition: Amoxicillin 500mg
+usage: Cardiac care
+precautions: Do not exceed dose
+MRP: ₹53
+manufacturer: Dr. Reddy's
+---
+product_name: Med-112
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Do not exceed dose
+MRP: ₹31
+manufacturer: Sun Pharma
+---
+product_name: Med-113
+composition: Amoxicillin 500mg
+usage: Bacterial infection
+precautions: Consult doctor if pregnant
+MRP: ₹137
+manufacturer: Sun Pharma
+---
+product_name: Med-114
+composition: Paracetamol 650mg
+usage: Diabetes control
+precautions: Do not exceed dose
+MRP: ₹129
+manufacturer: Sun Pharma
+---
+product_name: Med-115
+composition: Ciprofloxacin 250mg
+usage: Bacterial infection
+precautions: Not for children
+MRP: ₹37
+manufacturer: Cipla
+---
+product_name: Med-116
+composition: Ibuprofen 400mg
+usage: Diabetes control
+precautions: Avoid if allergic
+MRP: ₹148
+manufacturer: Cipla
+---
+product_name: Med-117
+composition: Paracetamol 650mg
+usage: Pain relief
+precautions: Avoid if allergic
+MRP: ₹70
+manufacturer: Cipla
+---
+product_name: Med-118
+composition: Metformin 500mg
+usage: Pain relief
+precautions: Do not exceed dose
+MRP: ₹106
+manufacturer: Cipla
+---
+product_name: Med-119
+composition: Aspirin 75mg
+usage: Diabetes control
+precautions: Take after meals
+MRP: ₹102
+manufacturer: Cipla
+---
+product_name: Med-120
+composition: Paracetamol 650mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹73
+manufacturer: Dr. Reddy's
+---
+product_name: Med-121
+composition: Paracetamol 650mg
+usage: Pain relief
+precautions: Avoid alcohol
+MRP: ₹22
+manufacturer: Dr. Reddy's
+---
+product_name: Med-122
+composition: Ibuprofen 400mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹71
+manufacturer: Lupin
+---
+product_name: Med-123
+composition: Aspirin 75mg
+usage: Anti-inflammatory
+precautions: Take after meals
+MRP: ₹117
+manufacturer: Lupin
+---
+product_name: Med-124
+composition: Aspirin 75mg
+usage: Anti-inflammatory
+precautions: Not for children
+MRP: ₹58
+manufacturer: Sun Pharma
+---
+product_name: Med-125
+composition: Paracetamol 650mg
+usage: Bacterial infection
+precautions: Take after meals
+MRP: ₹45
+manufacturer: Cipla
+---
+product_name: Med-126
+composition: Metformin 500mg
+usage: Bacterial infection
+precautions: Not for children
+MRP: ₹43
+manufacturer: Lupin
+---
+product_name: Med-127
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Not for children
+MRP: ₹143
+manufacturer: Dr. Reddy's
+---
+product_name: Med-128
+composition: Ciprofloxacin 250mg
+usage: Fever reduction
+precautions: Take after meals
+MRP: ₹29
+manufacturer: Glenmark
+---
+product_name: Med-129
+composition: Aspirin 75mg
+usage: Bacterial infection
+precautions: Take after meals
+MRP: ₹144
+manufacturer: Cipla
+---
+product_name: Med-130
+composition: Metformin 500mg
+usage: Pain relief
+precautions: Take after meals
+MRP: ₹36
+manufacturer: Sun Pharma
+---
+product_name: Med-131
+composition: Metformin 500mg
+usage: Fever reduction
+precautions: Do not exceed dose
+MRP: ₹141
+manufacturer: Sun Pharma
+---
+product_name: Med-132
+composition: Ibuprofen 400mg
+usage: Fever reduction
+precautions: Avoid if allergic
+MRP: ₹95
+manufacturer: Sun Pharma
+---
+product_name: Med-133
+composition: Ciprofloxacin 250mg
+usage: Bacterial infection
+precautions: Avoid alcohol
+MRP: ₹106
+manufacturer: Cipla
+---
+product_name: Med-134
+composition: Ibuprofen 400mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹21
+manufacturer: Dr. Reddy's
+---
+product_name: Med-135
+composition: Ibuprofen 400mg
+usage: Cardiac care
+precautions: Take after meals
+MRP: ₹92
+manufacturer: Sun Pharma
+---
+product_name: Med-136
+composition: Aspirin 75mg
+usage: Fever reduction
+precautions: Not for children
+MRP: ₹68
+manufacturer: Cipla
+---
+product_name: Med-137
+composition: Amoxicillin 500mg
+usage: Cardiac care
+precautions: Avoid alcohol
+MRP: ₹123
+manufacturer: Dr. Reddy's
+---
+product_name: Med-138
+composition: Aspirin 75mg
+usage: Bacterial infection
+precautions: Consult doctor if pregnant
+MRP: ₹144
+manufacturer: Lupin
+---
+product_name: Med-139
+composition: Aspirin 75mg
+usage: Anti-inflammatory
+precautions: Do not exceed dose
+MRP: ₹100
+manufacturer: Lupin
+---
+product_name: Med-140
+composition: Amoxicillin 500mg
+usage: Cardiac care
+precautions: Do not exceed dose
+MRP: ₹120
+manufacturer: Lupin
+---
+product_name: Med-141
+composition: Aspirin 75mg
+usage: Anti-inflammatory
+precautions: Avoid if allergic
+MRP: ₹117
+manufacturer: Micro Labs
+---
+product_name: Med-142
+composition: Metformin 500mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹131
+manufacturer: Dr. Reddy's
+---
+product_name: Med-143
+composition: Paracetamol 650mg
+usage: Diabetes control
+precautions: Do not exceed dose
+MRP: ₹147
+manufacturer: Micro Labs
+---
+product_name: Med-144
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Not for children
+MRP: ₹25
+manufacturer: Dr. Reddy's
+---
+product_name: Med-145
+composition: Ciprofloxacin 250mg
+usage: Bacterial infection
+precautions: Avoid alcohol
+MRP: ₹40
+manufacturer: Sun Pharma
+---
+product_name: Med-146
+composition: Metformin 500mg
+usage: Bacterial infection
+precautions: Avoid alcohol
+MRP: ₹39
+manufacturer: Lupin
+---
+product_name: Med-147
+composition: Ibuprofen 400mg
+usage: Anti-inflammatory
+precautions: Avoid if allergic
+MRP: ₹123
+manufacturer: Lupin
+---
+product_name: Med-148
+composition: Ibuprofen 400mg
+usage: Diabetes control
+precautions: Consult doctor if pregnant
+MRP: ₹126
+manufacturer: Glenmark
+---
+product_name: Med-149
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Avoid alcohol
+MRP: ₹122
+manufacturer: Micro Labs
+---
+product_name: Med-150
+composition: Ciprofloxacin 250mg
+usage: Anti-inflammatory
+precautions: Take after meals
+MRP: ₹50
+manufacturer: Glenmark
+---
+product_name: Med-151
+composition: Ciprofloxacin 250mg
+usage: Fever reduction
+precautions: Avoid if allergic
+MRP: ₹25
+manufacturer: Glenmark
+---
+product_name: Med-152
+composition: Amoxicillin 500mg
+usage: Cardiac care
+precautions: Avoid alcohol
+MRP: ₹34
+manufacturer: Glenmark
+---
+product_name: Med-153
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Consult doctor if pregnant
+MRP: ₹149
+manufacturer: Sun Pharma
+---
+product_name: Med-154
+composition: Amoxicillin 500mg
+usage: Fever reduction
+precautions: Avoid if allergic
+MRP: ₹127
+manufacturer: Micro Labs
+---
+product_name: Med-155
+composition: Aspirin 75mg
+usage: Pain relief
+precautions: Do not exceed dose
+MRP: ₹90
+manufacturer: Dr. Reddy's
+---
+product_name: Med-156
+composition: Ibuprofen 400mg
+usage: Anti-inflammatory
+precautions: Avoid if allergic
+MRP: ₹69
+manufacturer: Micro Labs
+---
+product_name: Med-157
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Avoid alcohol
+MRP: ₹48
+manufacturer: Micro Labs
+---
+product_name: Med-158
+composition: Ibuprofen 400mg
+usage: Cardiac care
+precautions: Do not exceed dose
+MRP: ₹21
+manufacturer: Cipla
+---
+product_name: Med-159
+composition: Amoxicillin 500mg
+usage: Fever reduction
+precautions: Not for children
+MRP: ₹129
+manufacturer: Glenmark
+---
+product_name: Med-160
+composition: Metformin 500mg
+usage: Cardiac care
+precautions: Avoid if allergic
+MRP: ₹69
+manufacturer: Dr. Reddy's
+---
+product_name: Med-161
+composition: Metformin 500mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹110
+manufacturer: Glenmark
+---
+product_name: Med-162
+composition: Aspirin 75mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹11
+manufacturer: Sun Pharma
+---
+product_name: Med-163
+composition: Paracetamol 650mg
+usage: Fever reduction
+precautions: Do not exceed dose
+MRP: ₹103
+manufacturer: Cipla
+---
+product_name: Med-164
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Do not exceed dose
+MRP: ₹78
+manufacturer: Dr. Reddy's
+---
+product_name: Med-165
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Avoid alcohol
+MRP: ₹72
+manufacturer: Sun Pharma
+---
+product_name: Med-166
+composition: Paracetamol 650mg
+usage: Pain relief
+precautions: Avoid alcohol
+MRP: ₹145
+manufacturer: Micro Labs
+---
+product_name: Med-167
+composition: Metformin 500mg
+usage: Diabetes control
+precautions: Avoid if allergic
+MRP: ₹88
+manufacturer: Cipla
+---
+product_name: Med-168
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Take after meals
+MRP: ₹80
+manufacturer: Micro Labs
+---
+product_name: Med-169
+composition: Ciprofloxacin 250mg
+usage: Bacterial infection
+precautions: Take after meals
+MRP: ₹38
+manufacturer: Dr. Reddy's
+---
+product_name: Med-170
+composition: Metformin 500mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹120
+manufacturer: Glenmark
+---
+product_name: Med-171
+composition: Aspirin 75mg
+usage: Anti-inflammatory
+precautions: Avoid alcohol
+MRP: ₹99
+manufacturer: Glenmark
+---
+product_name: Med-172
+composition: Amoxicillin 500mg
+usage: Cardiac care
+precautions: Do not exceed dose
+MRP: ₹103
+manufacturer: Cipla
+---
+product_name: Med-173
+composition: Amoxicillin 500mg
+usage: Cardiac care
+precautions: Take after meals
+MRP: ₹67
+manufacturer: Dr. Reddy's
+---
+product_name: Med-174
+composition: Ciprofloxacin 250mg
+usage: Bacterial infection
+precautions: Take after meals
+MRP: ₹35
+manufacturer: Cipla
+---
+product_name: Med-175
+composition: Ciprofloxacin 250mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹51
+manufacturer: Cipla
+---
+product_name: Med-176
+composition: Metformin 500mg
+usage: Fever reduction
+precautions: Do not exceed dose
+MRP: ₹143
+manufacturer: Glenmark
+---
+product_name: Med-177
+composition: Aspirin 75mg
+usage: Diabetes control
+precautions: Not for children
+MRP: ₹127
+manufacturer: Cipla
+---
+product_name: Med-178
+composition: Ibuprofen 400mg
+usage: Diabetes control
+precautions: Take after meals
+MRP: ₹99
+manufacturer: Dr. Reddy's
+---
+product_name: Med-179
+composition: Aspirin 75mg
+usage: Pain relief
+precautions: Avoid alcohol
+MRP: ₹23
+manufacturer: Micro Labs
+---
+product_name: Med-180
+composition: Ibuprofen 400mg
+usage: Fever reduction
+precautions: Consult doctor if pregnant
+MRP: ₹109
+manufacturer: Glenmark
+---
+product_name: Med-181
+composition: Ibuprofen 400mg
+usage: Cardiac care
+precautions: Do not exceed dose
+MRP: ₹45
+manufacturer: Dr. Reddy's
+---
+product_name: Med-182
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Consult doctor if pregnant
+MRP: ₹38
+manufacturer: Lupin
+---
+product_name: Med-183
+composition: Ibuprofen 400mg
+usage: Fever reduction
+precautions: Consult doctor if pregnant
+MRP: ₹140
+manufacturer: Cipla
+---
+product_name: Med-184
+composition: Aspirin 75mg
+usage: Cardiac care
+precautions: Do not exceed dose
+MRP: ₹19
+manufacturer: Glenmark
+---
+product_name: Med-185
+composition: Ibuprofen 400mg
+usage: Anti-inflammatory
+precautions: Avoid alcohol
+MRP: ₹68
+manufacturer: Dr. Reddy's
+---
+product_name: Med-186
+composition: Aspirin 75mg
+usage: Bacterial infection
+precautions: Not for children
+MRP: ₹140
+manufacturer: Micro Labs
+---
+product_name: Med-187
+composition: Ciprofloxacin 250mg
+usage: Cardiac care
+precautions: Avoid alcohol
+MRP: ₹42
+manufacturer: Cipla
+---
+product_name: Med-188
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Do not exceed dose
+MRP: ₹111
+manufacturer: Micro Labs
+---
+product_name: Med-189
+composition: Aspirin 75mg
+usage: Fever reduction
+precautions: Not for children
+MRP: ₹89
+manufacturer: Glenmark
+---
+product_name: Med-190
+composition: Paracetamol 650mg
+usage: Bacterial infection
+precautions: Consult doctor if pregnant
+MRP: ₹145
+manufacturer: Micro Labs
+---
+product_name: Med-191
+composition: Paracetamol 650mg
+usage: Anti-inflammatory
+precautions: Consult doctor if pregnant
+MRP: ₹76
+manufacturer: Glenmark
+---
+product_name: Med-192
+composition: Amoxicillin 500mg
+usage: Diabetes control
+precautions: Take after meals
+MRP: ₹30
+manufacturer: Dr. Reddy's
+---
+product_name: Med-193
+composition: Paracetamol 650mg
+usage: Diabetes control
+precautions: Consult doctor if pregnant
+MRP: ₹77
+manufacturer: Lupin
+---
+product_name: Med-194
+composition: Paracetamol 650mg
+usage: Bacterial infection
+precautions: Avoid alcohol
+MRP: ₹77
+manufacturer: Sun Pharma
+---
+product_name: Med-195
+composition: Ciprofloxacin 250mg
+usage: Fever reduction
+precautions: Not for children
+MRP: ₹95
+manufacturer: Lupin
+---
+product_name: Med-196
+composition: Ibuprofen 400mg
+usage: Anti-inflammatory
+precautions: Not for children
+MRP: ₹134
+manufacturer: Cipla
+---
+product_name: Med-197
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Avoid if allergic
+MRP: ₹123
+manufacturer: Dr. Reddy's
+---
+product_name: Med-198
+composition: Ciprofloxacin 250mg
+usage: Anti-inflammatory
+precautions: Take after meals
+MRP: ₹54
+manufacturer: Lupin
+---
+product_name: Med-199
+composition: Paracetamol 650mg
+usage: Pain relief
+precautions: Avoid if allergic
+MRP: ₹12
+manufacturer: Lupin
+---
+product_name: Med-200
+composition: Paracetamol 650mg
+usage: Anti-inflammatory
+precautions: Avoid alcohol
+MRP: ₹109
+manufacturer: Dr. Reddy's
+---
+product_name: Med-201
+composition: Metformin 500mg
+usage: Cardiac care
+precautions: Avoid alcohol
+MRP: ₹71
+manufacturer: Cipla
+---
+product_name: Med-202
+composition: Ciprofloxacin 250mg
+usage: Diabetes control
+precautions: Avoid if allergic
+MRP: ₹109
+manufacturer: Micro Labs
+---
+product_name: Med-203
+composition: Amoxicillin 500mg
+usage: Anti-inflammatory
+precautions: Take after meals
+MRP: ₹68
+manufacturer: Glenmark
+---
+product_name: Med-204
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Avoid if allergic
+MRP: ₹127
+manufacturer: Cipla
+---
+product_name: Med-205
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Consult doctor if pregnant
+MRP: ₹91
+manufacturer: Cipla
+---
+product_name: Med-206
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Avoid alcohol
+MRP: ₹29
+manufacturer: Cipla
+---
+product_name: Med-207
+composition: Paracetamol 650mg
+usage: Diabetes control
+precautions: Do not exceed dose
+MRP: ₹36
+manufacturer: Lupin
+---
+product_name: Med-208
+composition: Paracetamol 650mg
+usage: Fever reduction
+precautions: Avoid if allergic
+MRP: ₹28
+manufacturer: Micro Labs
+---
+product_name: Med-209
+composition: Metformin 500mg
+usage: Bacterial infection
+precautions: Consult doctor if pregnant
+MRP: ₹81
+manufacturer: Dr. Reddy's
+---
+product_name: Med-210
+composition: Amoxicillin 500mg
+usage: Bacterial infection
+precautions: Avoid alcohol
+MRP: ₹55
+manufacturer: Glenmark
+---
+product_name: Med-211
+composition: Ibuprofen 400mg
+usage: Fever reduction
+precautions: Take after meals
+MRP: ₹129
+manufacturer: Cipla
+---
+product_name: Med-212
+composition: Metformin 500mg
+usage: Fever reduction
+precautions: Consult doctor if pregnant
+MRP: ₹88
+manufacturer: Dr. Reddy's
+---
+product_name: Med-213
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Consult doctor if pregnant
+MRP: ₹91
+manufacturer: Sun Pharma
+---
+product_name: Med-214
+composition: Amoxicillin 500mg
+usage: Cardiac care
+precautions: Consult doctor if pregnant
+MRP: ₹63
+manufacturer: Sun Pharma
+---
+product_name: Med-215
+composition: Ibuprofen 400mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹70
+manufacturer: Dr. Reddy's
+---
+product_name: Med-216
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Do not exceed dose
+MRP: ₹107
+manufacturer: Micro Labs
+---
+product_name: Med-217
+composition: Aspirin 75mg
+usage: Pain relief
+precautions: Avoid if allergic
+MRP: ₹134
+manufacturer: Lupin
+---
+product_name: Med-218
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Take after meals
+MRP: ₹64
+manufacturer: Dr. Reddy's
+---
+product_name: Med-219
+composition: Ibuprofen 400mg
+usage: Bacterial infection
+precautions: Avoid if allergic
+MRP: ₹22
+manufacturer: Glenmark
+---
+product_name: Med-220
+composition: Paracetamol 650mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹22
+manufacturer: Sun Pharma
+---
+product_name: Med-221
+composition: Amoxicillin 500mg
+usage: Diabetes control
+precautions: Avoid if allergic
+MRP: ₹34
+manufacturer: Dr. Reddy's
+---
+product_name: Med-222
+composition: Paracetamol 650mg
+usage: Diabetes control
+precautions: Avoid alcohol
+MRP: ₹139
+manufacturer: Sun Pharma
+---
+product_name: Med-223
+composition: Aspirin 75mg
+usage: Cardiac care
+precautions: Do not exceed dose
+MRP: ₹16
+manufacturer: Lupin
+---
+product_name: Med-224
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Consult doctor if pregnant
+MRP: ₹106
+manufacturer: Cipla
+---
+product_name: Med-225
+composition: Ciprofloxacin 250mg
+usage: Bacterial infection
+precautions: Take after meals
+MRP: ₹11
+manufacturer: Glenmark
+---
+product_name: Med-226
+composition: Paracetamol 650mg
+usage: Pain relief
+precautions: Avoid alcohol
+MRP: ₹63
+manufacturer: Sun Pharma
+---
+product_name: Med-227
+composition: Metformin 500mg
+usage: Pain relief
+precautions: Not for children
+MRP: ₹134
+manufacturer: Micro Labs
+---
+product_name: Med-228
+composition: Ibuprofen 400mg
+usage: Bacterial infection
+precautions: Avoid alcohol
+MRP: ₹104
+manufacturer: Lupin
+---
+product_name: Med-229
+composition: Aspirin 75mg
+usage: Diabetes control
+precautions: Avoid if allergic
+MRP: ₹38
+manufacturer: Glenmark
+---
+product_name: Med-230
+composition: Ibuprofen 400mg
+usage: Anti-inflammatory
+precautions: Avoid if allergic
+MRP: ₹29
+manufacturer: Sun Pharma
+---
+product_name: Med-231
+composition: Paracetamol 650mg
+usage: Pain relief
+precautions: Consult doctor if pregnant
+MRP: ₹34
+manufacturer: Glenmark
+---
+product_name: Med-232
+composition: Amoxicillin 500mg
+usage: Diabetes control
+precautions: Do not exceed dose
+MRP: ₹125
+manufacturer: Micro Labs
+---
+product_name: Med-233
+composition: Ciprofloxacin 250mg
+usage: Pain relief
+precautions: Avoid alcohol
+MRP: ₹125
+manufacturer: Lupin
+---
+product_name: Med-234
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Not for children
+MRP: ₹148
+manufacturer: Cipla
+---
+product_name: Med-235
+composition: Amoxicillin 500mg
+usage: Fever reduction
+precautions: Consult doctor if pregnant
+MRP: ₹95
+manufacturer: Dr. Reddy's
+---
+product_name: Med-236
+composition: Aspirin 75mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹16
+manufacturer: Glenmark
+---
+product_name: Med-237
+composition: Aspirin 75mg
+usage: Diabetes control
+precautions: Not for children
+MRP: ₹132
+manufacturer: Glenmark
+---
+product_name: Med-238
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Do not exceed dose
+MRP: ₹86
+manufacturer: Dr. Reddy's
+---
+product_name: Med-239
+composition: Ibuprofen 400mg
+usage: Diabetes control
+precautions: Do not exceed dose
+MRP: ₹141
+manufacturer: Glenmark
+---
+product_name: Med-240
+composition: Aspirin 75mg
+usage: Diabetes control
+precautions: Do not exceed dose
+MRP: ₹75
+manufacturer: Cipla
+---
+product_name: Med-241
+composition: Aspirin 75mg
+usage: Diabetes control
+precautions: Avoid if allergic
+MRP: ₹57
+manufacturer: Sun Pharma
+---
+product_name: Med-242
+composition: Aspirin 75mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹66
+manufacturer: Cipla
+---
+product_name: Med-243
+composition: Ibuprofen 400mg
+usage: Pain relief
+precautions: Take after meals
+MRP: ₹43
+manufacturer: Cipla
+---
+product_name: Med-244
+composition: Ciprofloxacin 250mg
+usage: Diabetes control
+precautions: Do not exceed dose
+MRP: ₹90
+manufacturer: Cipla
+---
+product_name: Med-245
+composition: Ciprofloxacin 250mg
+usage: Cardiac care
+precautions: Not for children
+MRP: ₹65
+manufacturer: Micro Labs
+---
+product_name: Med-246
+composition: Metformin 500mg
+usage: Fever reduction
+precautions: Consult doctor if pregnant
+MRP: ₹107
+manufacturer: Glenmark
+---
+product_name: Med-247
+composition: Aspirin 75mg
+usage: Anti-inflammatory
+precautions: Avoid if allergic
+MRP: ₹59
+manufacturer: Lupin
+---
+product_name: Med-248
+composition: Paracetamol 650mg
+usage: Pain relief
+precautions: Do not exceed dose
+MRP: ₹67
+manufacturer: Dr. Reddy's
+---
+product_name: Med-249
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Not for children
+MRP: ₹149
+manufacturer: Sun Pharma
+---
+product_name: Med-250
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Avoid if allergic
+MRP: ₹141
+manufacturer: Micro Labs
+---
+product_name: Med-251
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Do not exceed dose
+MRP: ₹72
+manufacturer: Dr. Reddy's
+---
+product_name: Med-252
+composition: Amoxicillin 500mg
+usage: Diabetes control
+precautions: Avoid if allergic
+MRP: ₹75
+manufacturer: Glenmark
+---
+product_name: Med-253
+composition: Ibuprofen 400mg
+usage: Cardiac care
+precautions: Avoid if allergic
+MRP: ₹21
+manufacturer: Sun Pharma
+---
+product_name: Med-254
+composition: Paracetamol 650mg
+usage: Diabetes control
+precautions: Not for children
+MRP: ₹105
+manufacturer: Lupin
+---
+product_name: Med-255
+composition: Metformin 500mg
+usage: Bacterial infection
+precautions: Take after meals
+MRP: ₹99
+manufacturer: Glenmark
+---
+product_name: Med-256
+composition: Aspirin 75mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹132
+manufacturer: Cipla
+---
+product_name: Med-257
+composition: Paracetamol 650mg
+usage: Fever reduction
+precautions: Do not exceed dose
+MRP: ₹89
+manufacturer: Dr. Reddy's
+---
+product_name: Med-258
+composition: Ciprofloxacin 250mg
+usage: Fever reduction
+precautions: Do not exceed dose
+MRP: ₹20
+manufacturer: Dr. Reddy's
+---
+product_name: Med-259
+composition: Aspirin 75mg
+usage: Pain relief
+precautions: Consult doctor if pregnant
+MRP: ₹145
+manufacturer: Dr. Reddy's
+---
+product_name: Med-260
+composition: Paracetamol 650mg
+usage: Pain relief
+precautions: Avoid if allergic
+MRP: ₹40
+manufacturer: Micro Labs
+---
+product_name: Med-261
+composition: Metformin 500mg
+usage: Pain relief
+precautions: Not for children
+MRP: ₹139
+manufacturer: Cipla
+---
+product_name: Med-262
+composition: Amoxicillin 500mg
+usage: Diabetes control
+precautions: Do not exceed dose
+MRP: ₹111
+manufacturer: Sun Pharma
+---
+product_name: Med-263
+composition: Metformin 500mg
+usage: Bacterial infection
+precautions: Not for children
+MRP: ₹102
+manufacturer: Cipla
+---
+product_name: Med-264
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Do not exceed dose
+MRP: ₹22
+manufacturer: Lupin
+---
+product_name: Med-265
+composition: Amoxicillin 500mg
+usage: Fever reduction
+precautions: Consult doctor if pregnant
+MRP: ₹100
+manufacturer: Cipla
+---
+product_name: Med-266
+composition: Aspirin 75mg
+usage: Diabetes control
+precautions: Avoid if allergic
+MRP: ₹31
+manufacturer: Micro Labs
+---
+product_name: Med-267
+composition: Metformin 500mg
+usage: Fever reduction
+precautions: Avoid if allergic
+MRP: ₹94
+manufacturer: Micro Labs
+---
+product_name: Med-268
+composition: Ibuprofen 400mg
+usage: Bacterial infection
+precautions: Do not exceed dose
+MRP: ₹121
+manufacturer: Cipla
+---
+product_name: Med-269
+composition: Aspirin 75mg
+usage: Bacterial infection
+precautions: Avoid if allergic
+MRP: ₹75
+manufacturer: Glenmark
+---
+product_name: Med-270
+composition: Paracetamol 650mg
+usage: Diabetes control
+precautions: Take after meals
+MRP: ₹91
+manufacturer: Cipla
+---
+product_name: Med-271
+composition: Ibuprofen 400mg
+usage: Bacterial infection
+precautions: Avoid alcohol
+MRP: ₹139
+manufacturer: Dr. Reddy's
+---
+product_name: Med-272
+composition: Aspirin 75mg
+usage: Cardiac care
+precautions: Avoid alcohol
+MRP: ₹78
+manufacturer: Glenmark
+---
+product_name: Med-273
+composition: Ciprofloxacin 250mg
+usage: Fever reduction
+precautions: Take after meals
+MRP: ₹19
+manufacturer: Lupin
+---
+product_name: Med-274
+composition: Ciprofloxacin 250mg
+usage: Pain relief
+precautions: Consult doctor if pregnant
+MRP: ₹53
+manufacturer: Micro Labs
+---
+product_name: Med-275
+composition: Amoxicillin 500mg
+usage: Anti-inflammatory
+precautions: Not for children
+MRP: ₹62
+manufacturer: Cipla
+---
+product_name: Med-276
+composition: Amoxicillin 500mg
+usage: Bacterial infection
+precautions: Consult doctor if pregnant
+MRP: ₹102
+manufacturer: Sun Pharma
+---
+product_name: Med-277
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Do not exceed dose
+MRP: ₹114
+manufacturer: Lupin
+---
+product_name: Med-278
+composition: Paracetamol 650mg
+usage: Anti-inflammatory
+precautions: Do not exceed dose
+MRP: ₹47
+manufacturer: Glenmark
+---
+product_name: Med-279
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Take after meals
+MRP: ₹95
+manufacturer: Cipla
+---
+product_name: Med-280
+composition: Ibuprofen 400mg
+usage: Fever reduction
+precautions: Take after meals
+MRP: ₹117
+manufacturer: Micro Labs
+---
+product_name: Med-281
+composition: Ciprofloxacin 250mg
+usage: Bacterial infection
+precautions: Consult doctor if pregnant
+MRP: ₹130
+manufacturer: Cipla
+---
+product_name: Med-282
+composition: Metformin 500mg
+usage: Bacterial infection
+precautions: Not for children
+MRP: ₹57
+manufacturer: Lupin
+---
+product_name: Med-283
+composition: Ciprofloxacin 250mg
+usage: Bacterial infection
+precautions: Take after meals
+MRP: ₹131
+manufacturer: Lupin
+---
+product_name: Med-284
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Not for children
+MRP: ₹84
+manufacturer: Cipla
+---
+product_name: Med-285
+composition: Ciprofloxacin 250mg
+usage: Pain relief
+precautions: Consult doctor if pregnant
+MRP: ₹61
+manufacturer: Cipla
+---
+product_name: Med-286
+composition: Ibuprofen 400mg
+usage: Bacterial infection
+precautions: Avoid alcohol
+MRP: ₹82
+manufacturer: Micro Labs
+---
+product_name: Med-287
+composition: Amoxicillin 500mg
+usage: Diabetes control
+precautions: Avoid alcohol
+MRP: ₹62
+manufacturer: Sun Pharma
+---
+product_name: Med-288
+composition: Metformin 500mg
+usage: Bacterial infection
+precautions: Avoid alcohol
+MRP: ₹61
+manufacturer: Lupin
+---
+product_name: Med-289
+composition: Ibuprofen 400mg
+usage: Pain relief
+precautions: Avoid if allergic
+MRP: ₹65
+manufacturer: Cipla
+---
+product_name: Med-290
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Consult doctor if pregnant
+MRP: ₹123
+manufacturer: Glenmark
+---
+product_name: Med-291
+composition: Paracetamol 650mg
+usage: Fever reduction
+precautions: Not for children
+MRP: ₹137
+manufacturer: Glenmark
+---
+product_name: Med-292
+composition: Metformin 500mg
+usage: Anti-inflammatory
+precautions: Consult doctor if pregnant
+MRP: ₹127
+manufacturer: Dr. Reddy's
+---
+product_name: Med-293
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Take after meals
+MRP: ₹45
+manufacturer: Dr. Reddy's
+---
+product_name: Med-294
+composition: Paracetamol 650mg
+usage: Cardiac care
+precautions: Avoid if allergic
+MRP: ₹116
+manufacturer: Dr. Reddy's
+---
+product_name: Med-295
+composition: Ibuprofen 400mg
+usage: Pain relief
+precautions: Take after meals
+MRP: ₹97
+manufacturer: Dr. Reddy's
+---
+product_name: Med-296
+composition: Amoxicillin 500mg
+usage: Pain relief
+precautions: Avoid alcohol
+MRP: ₹41
+manufacturer: Lupin
+---
+product_name: Med-297
+composition: Metformin 500mg
+usage: Fever reduction
+precautions: Avoid alcohol
+MRP: ₹15
+manufacturer: Glenmark
+---
+product_name: Med-298
+composition: Metformin 500mg
+usage: Bacterial infection
+precautions: Take after meals
+MRP: ₹39
+manufacturer: Sun Pharma
+---
+product_name: Med-299
+composition: Ibuprofen 400mg
+usage: Diabetes control
+precautions: Do not exceed dose
+MRP: ₹32
+manufacturer: Cipla
+---
+product_name: Med-300
+composition: Ibuprofen 400mg
+usage: Bacterial infection
+precautions: Take after meals
+MRP: ₹62
+manufacturer: Sun Pharma

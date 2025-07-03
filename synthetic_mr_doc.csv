@@ -1,0 +1,501 @@
+doctor_id,doctor_name,specialization,location_lat,location_lon,available_from,available_to,visit_duration_mins,priority_score,MR_id,others
+DR001,William Cook,Pediatrician,19.057305,72.891036,11:00,12:00,20,1,MR3,"Brochure, Digital device for demo"
+DR002,Christopher Nguyen,Dermatologist,19.085229,72.847324,12:00,13:00,30,7,MR1,"Samples, Survey form"
+DR003,Stephen White,Neurologist,19.041018,72.865216,11:00,13:00,30,1,MR2,"Product brochure, Samples, Feedback form"
+DR004,Allison Farmer,Dermatologist,19.056148,72.913526,14:00,16:00,30,4,MR2,Patient feedback needed
+DR005,Kelly Edwards,Oncologist,19.096883,72.91075,09:00,11:00,15,6,MR2,Appointment confirmation slip
+DR006,Amy Church,Neurologist,19.030189,72.828588,12:00,14:00,20,1,MR1,Patient feedback needed
+DR007,Richard Hammond,Dermatologist,19.115438,72.899594,09:00,11:00,30,3,MR3,Appointment confirmation slip
+DR008,Meghan Bailey,Cardiologist,19.0385,72.887859,10:00,12:00,30,6,MR2,"Samples, Survey form"
+DR009,Richard Bryant,Pediatrician,19.078274,72.901411,14:00,15:00,30,9,MR2,Visit after 8 days
+DR010,Joshua Phillips,Orthopedic,19.049316,72.867501,13:00,14:00,15,8,MR3,"Brochure, Digital device for demo"
+DR011,Marcus Lee,Oncologist,19.066974,72.893576,12:00,13:00,15,2,MR1,More Calpol is required
+DR012,Kenneth Bass,Neurologist,19.102561,72.889885,13:00,14:00,20,4,MR3,"Feedback form, Survey kit"
+DR013,Laura Stephens,Pediatrician,19.090408,72.90264,09:00,10:00,15,2,MR3,Paracetamol is req
+DR014,Erik Wilson,Pediatrician,19.119922,72.854762,15:00,16:00,20,7,MR3,"Samples, Survey form"
+DR015,Deborah Alvarez,Pediatrician,19.102102,72.881674,11:00,12:00,15,1,MR1,"Samples, Survey form"
+DR016,Terry Davis,Pediatrician,19.071223,72.846333,09:00,10:00,20,3,MR2,"Samples, Survey form"
+DR017,Tracy Copeland,Cardiologist,19.035348,72.849715,11:00,13:00,20,8,MR3,"Product brochure, Samples, Feedback form"
+DR018,Maria Ryan,Dermatologist,19.119609,72.84726,10:00,12:00,30,7,MR1,"Product brochure, Samples, Feedback form"
+DR019,Justin Hernandez,Orthopedic,19.060901,72.859866,10:00,12:00,15,7,MR2,"Feedback form, Survey kit"
+DR020,Dr. Angela Gilmore,Dermatologist,19.095164,72.921892,12:00,14:00,15,1,MR2,Appointment confirmation slip
+DR021,Bryce Atkins,Oncologist,19.094887,72.868902,11:00,12:00,30,9,MR1,"Product brochure, Samples"
+DR022,Jeffrey Carter,Oncologist,19.112561,72.839304,13:00,14:00,30,3,MR1,More Calpol is required
+DR023,Edward Norris,Oncologist,19.051947,72.837602,15:00,17:00,15,2,MR1,"Feedback form, Survey kit"
+DR024,Jason Holloway,Oncologist,19.034796,72.864626,11:00,12:00,30,4,MR1,More Calpol is required
+DR025,Jermaine Davis,Cardiologist,19.039345,72.842843,13:00,15:00,15,7,MR3,Paracetamol is req
+DR026,Paul Mcintyre,Cardiologist,19.102722,72.831391,11:00,13:00,30,1,MR3,More Calpol is required
+DR027,Victoria Solis,Cardiologist,19.110934,72.83052,11:00,13:00,30,1,MR2,"Product brochure, Samples, Feedback form"
+DR028,Michael Jones,Cardiologist,19.097312,72.870874,14:00,16:00,20,9,MR2,Patient feedback needed
+DR029,Bradley Le,Neurologist,19.058401,72.875863,12:00,14:00,15,5,MR1,Samples of new medicine requested
+DR030,Sarah Edwards,Neurologist,19.048665,72.882884,11:00,13:00,20,3,MR1,Paracetamol is req
+DR031,Anthony Cain,Dermatologist,19.061967,72.873405,14:00,15:00,30,5,MR1,"Product brochure, Samples"
+DR032,Carlos Norris,Dermatologist,19.053991,72.911448,10:00,12:00,20,10,MR3,"Feedback form, Survey kit"
+DR033,Dalton Bean,Pediatrician,19.076471,72.853867,12:00,13:00,15,3,MR2,Visit after 8 days
+DR034,Cameron Lee,Dermatologist,19.070576,72.869345,09:00,11:00,15,7,MR3,"Samples, Survey form"
+DR035,Victoria Shields,Cardiologist,19.084901,72.845881,14:00,16:00,30,2,MR3,"Product brochure, Samples, Feedback form"
+DR036,Sherri Thompson,Cardiologist,19.114403,72.88282,09:00,11:00,15,2,MR2,Appointment confirmation slip
+DR037,Nathan Brock,Cardiologist,19.033154,72.869326,09:00,11:00,20,7,MR2,Paracetamol is req
+DR038,Jordan Gonzales,Dermatologist,19.081336,72.909752,11:00,13:00,15,3,MR3,"Feedback form, Survey kit"
+DR039,Thomas Malone,Dermatologist,19.085517,72.912489,09:00,10:00,15,5,MR3,More Calpol is required
+DR040,Brandon Weber,Oncologist,19.111081,72.8742,13:00,14:00,15,10,MR1,More Calpol is required
+DR041,Angel Carlson,Oncologist,19.049412,72.924608,11:00,13:00,30,2,MR3,"Product brochure, Samples"
+DR042,Timothy Moore,Orthopedic,19.042669,72.833271,14:00,16:00,20,1,MR3,Visit after 8 days
+DR043,Ronald Carter,Cardiologist,19.083457,72.881964,09:00,10:00,30,4,MR1,"Feedback form, Survey kit"
+DR044,Haley Barron,Cardiologist,19.072601,72.899119,14:00,16:00,30,10,MR1,Paracetamol is req
+DR045,Mark Ramos,Cardiologist,19.103101,72.891877,10:00,12:00,15,7,MR1,Visit after 8 days
+DR046,Dr. Stephanie Perez,Oncologist,19.125943,72.851276,11:00,12:00,20,1,MR1,Paracetamol is req
+DR047,Michael Hensley,Orthopedic,19.110665,72.886516,13:00,15:00,30,10,MR1,Visit after 8 days
+DR048,Ralph Roberts,Orthopedic,19.069727,72.894515,15:00,17:00,15,9,MR1,More Calpol is required
+DR049,Pamela Lynn,Pediatrician,19.11141,72.865094,14:00,16:00,20,1,MR2,Paracetamol is req
+DR050,Jessica Frazier,Orthopedic,19.105227,72.883068,13:00,14:00,20,1,MR2,Paracetamol is req
+DR051,Cheryl Lucero,Oncologist,19.085255,72.858333,09:00,11:00,15,4,MR2,Paracetamol is req
+DR052,Mary Williams,Orthopedic,19.039296,72.876163,10:00,12:00,15,2,MR2,Paracetamol is req
+DR053,Stephanie Glass,Dermatologist,19.05388,72.87363,12:00,13:00,30,10,MR1,"Samples, Survey form"
+DR054,Tammy Fernandez,Neurologist,19.07448,72.912385,12:00,13:00,20,7,MR3,Samples of new medicine requested
+DR055,Samuel Pena,Oncologist,19.104879,72.862966,11:00,13:00,20,5,MR3,"Samples, Survey form"
+DR056,Kevin Ruiz,Cardiologist,19.081742,72.859494,13:00,15:00,15,5,MR1,"Brochure, Digital device for demo"
+DR057,Heather Lambert,Pediatrician,19.077574,72.855667,11:00,13:00,30,3,MR2,More Calpol is required
+DR058,Rachel Cameron,Neurologist,19.099688,72.924922,09:00,10:00,30,5,MR1,More Calpol is required
+DR059,Richard Zimmerman,Pediatrician,19.119148,72.853305,15:00,17:00,15,9,MR2,Visit after 8 days
+DR060,Lindsay Welch,Oncologist,19.069202,72.900399,14:00,16:00,15,3,MR3,Samples of new medicine requested
+DR061,Shelia Shaw,Dermatologist,19.115553,72.86064,14:00,15:00,20,9,MR1,Paracetamol is req
+DR062,Janet Dalton,Orthopedic,19.107065,72.85673,15:00,17:00,20,5,MR3,"Feedback form, Survey kit"
+DR063,John Lee,Oncologist,19.082046,72.918227,10:00,12:00,15,6,MR3,"Brochure, Digital device for demo"
+DR064,Brenda Johnson,Pediatrician,19.076103,72.916458,12:00,13:00,30,2,MR1,"Feedback form, Survey kit"
+DR065,Steven Frazier,Oncologist,19.087269,72.908201,14:00,16:00,15,6,MR1,Visit after 8 days
+DR066,Stephanie Soto,Cardiologist,19.105039,72.881824,09:00,10:00,20,9,MR1,"Product brochure, Samples, Feedback form"
+DR067,Julie Mitchell,Cardiologist,19.036039,72.857953,13:00,14:00,20,8,MR3,Samples of new medicine requested
+DR068,Deborah Murphy,Oncologist,19.117069,72.884538,12:00,14:00,15,2,MR1,"Product brochure, Samples"
+DR069,Johnathan Wright,Oncologist,19.075097,72.830872,14:00,15:00,15,4,MR2,"Samples, Survey form"
+DR070,Dennis Arias,Orthopedic,19.036495,72.921544,15:00,17:00,30,4,MR2,More Calpol is required
+DR071,Karen Juarez,Orthopedic,19.047967,72.848993,14:00,16:00,30,3,MR1,"Feedback form, Survey kit"
+DR072,Kelsey Sanchez,Dermatologist,19.120148,72.88558,11:00,12:00,20,6,MR3,"Brochure, Digital device for demo"
+DR073,Joshua Garcia,Oncologist,19.033073,72.83293,10:00,12:00,20,5,MR1,Samples of new medicine requested
+DR074,Christine Pierce,Oncologist,19.055174,72.850581,10:00,11:00,20,3,MR3,More Calpol is required
+DR075,Jeffery Carter,Neurologist,19.045637,72.874259,11:00,13:00,20,1,MR1,Visit after 8 days
+DR076,Brent Rubio,Dermatologist,19.11252,72.830952,09:00,10:00,30,6,MR2,Paracetamol is req
+DR077,Dawn Sawyer,Oncologist,19.05283,72.887473,12:00,13:00,20,4,MR1,"Brochure, Digital device for demo"
+DR078,Michelle Taylor,Pediatrician,19.033741,72.883765,09:00,11:00,20,8,MR2,Paracetamol is req
+DR079,Cheryl Butler,Neurologist,19.044043,72.887625,14:00,16:00,20,1,MR3,Patient feedback needed
+DR080,Jessica Woods,Dermatologist,19.117208,72.91833,10:00,11:00,30,1,MR3,Paracetamol is req
+DR081,Elizabeth Meza,Pediatrician,19.125113,72.907649,12:00,13:00,30,9,MR2,Visit after 8 days
+DR082,Thomas Arnold,Neurologist,19.071931,72.892716,15:00,16:00,20,5,MR2,More Calpol is required
+DR083,Mary Jones,Neurologist,19.088386,72.838799,15:00,16:00,30,1,MR2,Paracetamol is req
+DR084,Pamela Gonzalez,Dermatologist,19.108542,72.923611,09:00,10:00,20,3,MR2,"Feedback form, Survey kit"
+DR085,James Johnson,Pediatrician,19.028029,72.851974,12:00,14:00,30,1,MR3,"Feedback form, Survey kit"
+DR086,Christopher Reynolds,Pediatrician,19.079632,72.84072,15:00,16:00,20,8,MR3,Appointment confirmation slip
+DR087,Autumn Hudson,Cardiologist,19.039203,72.881637,15:00,17:00,15,8,MR3,Samples of new medicine requested
+DR088,Anthony Vang,Oncologist,19.055463,72.925927,10:00,12:00,15,6,MR3,Samples of new medicine requested
+DR089,Katie Nelson,Neurologist,19.052867,72.884714,14:00,16:00,30,8,MR1,Patient feedback needed
+DR090,Kelly Murphy,Orthopedic,19.046651,72.860184,11:00,12:00,15,3,MR2,"Product brochure, Samples"
+DR091,Olivia Bell,Orthopedic,19.0529,72.86476,12:00,13:00,20,8,MR3,"Product brochure, Samples, Feedback form"
+DR092,Michael Frey,Oncologist,19.029653,72.879677,11:00,12:00,20,10,MR3,Paracetamol is req
+DR093,Jeremy Jenkins,Pediatrician,19.119875,72.8647,11:00,13:00,20,6,MR2,Samples of new medicine requested
+DR094,Sarah Haynes,Oncologist,19.03455,72.876532,13:00,15:00,20,9,MR3,Appointment confirmation slip
+DR095,Lisa Powell,Neurologist,19.112421,72.841143,11:00,12:00,15,1,MR3,"Brochure, Digital device for demo"
+DR096,Kelly Rodriguez,Dermatologist,19.081827,72.895627,12:00,14:00,15,7,MR3,Visit after 8 days
+DR097,Kristine Marsh,Dermatologist,19.026656,72.843262,09:00,11:00,20,4,MR3,More Calpol is required
+DR098,Emily Meadows,Orthopedic,19.068606,72.85122,13:00,14:00,15,9,MR2,"Brochure, Digital device for demo"
+DR099,Amanda Bautista,Neurologist,19.046953,72.862338,11:00,12:00,15,9,MR2,More Calpol is required
+DR100,Noah Lee,Dermatologist,19.034621,72.891722,13:00,15:00,15,6,MR1,"Feedback form, Survey kit"
+DR101,Meredith Finley,Dermatologist,19.055954,72.905992,09:00,10:00,30,10,MR1,"Brochure, Digital device for demo"
+DR102,Edward Mcdaniel,Dermatologist,19.063509,72.882888,15:00,16:00,15,1,MR3,Appointment confirmation slip
+DR103,Susan Campbell,Cardiologist,19.069177,72.902571,09:00,11:00,20,5,MR2,Visit after 8 days
+DR104,Jordan Davis,Orthopedic,19.073276,72.867059,10:00,11:00,15,4,MR2,"Samples, Survey form"
+DR105,Craig Howell,Oncologist,19.043585,72.888747,10:00,12:00,30,8,MR2,Patient feedback needed
+DR106,Rhonda Paul,Neurologist,19.117338,72.851131,10:00,12:00,15,5,MR3,"Samples, Survey form"
+DR107,Jose Spencer,Dermatologist,19.074072,72.835491,12:00,14:00,30,7,MR3,"Product brochure, Samples, Feedback form"
+DR108,Michelle Mccarthy,Orthopedic,19.062209,72.834698,09:00,11:00,30,1,MR1,Samples of new medicine requested
+DR109,Jimmy Price,Oncologist,19.116186,72.837456,14:00,15:00,30,1,MR2,"Product brochure, Samples, Feedback form"
+DR110,Lori Shah,Orthopedic,19.051167,72.86247,14:00,15:00,15,9,MR2,Visit after 8 days
+DR111,Dominique Johnson,Orthopedic,19.123243,72.848577,10:00,11:00,15,1,MR3,"Brochure, Digital device for demo"
+DR112,Jennifer Robinson,Oncologist,19.081269,72.876497,11:00,13:00,30,6,MR1,Patient feedback needed
+DR113,Deborah Wright,Pediatrician,19.093471,72.912754,09:00,10:00,20,8,MR1,More Calpol is required
+DR114,Hailey Larsen,Neurologist,19.042547,72.847894,11:00,12:00,30,7,MR1,Paracetamol is req
+DR115,Madeline Washington,Pediatrician,19.033373,72.855905,12:00,14:00,15,9,MR3,"Brochure, Digital device for demo"
+DR116,David Dennis,Pediatrician,19.118145,72.854154,13:00,14:00,30,8,MR2,"Samples, Survey form"
+DR117,Charles Young,Dermatologist,19.122714,72.863065,11:00,12:00,30,3,MR3,"Samples, Survey form"
+DR118,Sara Hill,Oncologist,19.051585,72.898936,12:00,13:00,15,3,MR2,"Samples, Survey form"
+DR119,Daniel Willis,Dermatologist,19.11432,72.926628,13:00,15:00,20,8,MR1,More Calpol is required
+DR120,Anita Riddle,Pediatrician,19.124576,72.867273,14:00,16:00,20,7,MR1,Patient feedback needed
+DR121,Jessica Valentine,Orthopedic,19.027133,72.85508,13:00,14:00,15,10,MR3,"Product brochure, Samples, Feedback form"
+DR122,Hannah Ramirez,Oncologist,19.041519,72.885988,13:00,14:00,30,2,MR2,"Product brochure, Samples"
+DR123,Tina Stewart,Cardiologist,19.055507,72.921772,10:00,11:00,30,7,MR1,"Samples, Survey form"
+DR124,Kelly Graham,Pediatrician,19.033782,72.905718,10:00,11:00,15,2,MR3,Patient feedback needed
+DR125,Vicki Phillips,Cardiologist,19.072414,72.836055,11:00,13:00,20,1,MR1,Visit after 8 days
+DR126,Billy Dawson,Neurologist,19.064274,72.831132,13:00,15:00,15,9,MR2,"Brochure, Digital device for demo"
+DR127,Jennifer Lawson,Dermatologist,19.054959,72.889287,13:00,14:00,30,7,MR2,Samples of new medicine requested
+DR128,Timothy Glenn,Cardiologist,19.061943,72.909993,14:00,15:00,15,8,MR3,"Samples, Survey form"
+DR129,William Smith,Pediatrician,19.070143,72.852805,15:00,16:00,20,10,MR3,Samples of new medicine requested
+DR130,Gregory Clark,Orthopedic,19.049608,72.901113,13:00,15:00,30,4,MR3,Appointment confirmation slip
+DR131,Joseph Allen,Dermatologist,19.114795,72.904095,12:00,13:00,30,3,MR3,"Product brochure, Samples, Feedback form"
+DR132,Laura English,Neurologist,19.061538,72.877667,09:00,10:00,15,4,MR2,"Feedback form, Survey kit"
+DR133,Tanya Elliott,Oncologist,19.074846,72.892984,12:00,14:00,30,6,MR3,"Product brochure, Samples, Feedback form"
+DR134,Robert Evans,Neurologist,19.065748,72.918966,09:00,10:00,15,10,MR2,"Brochure, Digital device for demo"
+DR135,Mark Cooper,Neurologist,19.096142,72.923676,13:00,15:00,20,6,MR2,Paracetamol is req
+DR136,Donald Flores,Orthopedic,19.054754,72.926901,10:00,12:00,15,9,MR2,Samples of new medicine requested
+DR137,Stephen Ward,Pediatrician,19.041781,72.841602,10:00,12:00,20,9,MR2,Samples of new medicine requested
+DR138,Nicholas Thompson,Dermatologist,19.031874,72.926474,14:00,16:00,15,10,MR3,"Samples, Survey form"
+DR139,Douglas Gentry,Neurologist,19.026306,72.896201,11:00,12:00,15,8,MR3,"Samples, Survey form"
+DR140,James Bailey,Neurologist,19.061817,72.905623,09:00,10:00,30,6,MR3,Patient feedback needed
+DR141,Brittany Banks,Neurologist,19.119165,72.839518,15:00,16:00,15,2,MR3,"Feedback form, Survey kit"
+DR142,Christopher Thomas,Orthopedic,19.029715,72.894485,09:00,11:00,20,5,MR3,Visit after 8 days
+DR143,Eric Lopez,Dermatologist,19.053185,72.846769,11:00,13:00,30,10,MR2,"Samples, Survey form"
+DR144,Rebecca Patterson,Oncologist,19.052153,72.900876,09:00,11:00,20,7,MR1,Appointment confirmation slip
+DR145,Carolyn Stanton,Dermatologist,19.046261,72.839372,11:00,13:00,30,2,MR2,Appointment confirmation slip
+DR146,Jose Hughes,Oncologist,19.080698,72.875733,10:00,11:00,20,1,MR1,"Feedback form, Survey kit"
+DR147,Mark Smith,Cardiologist,19.081492,72.840356,14:00,16:00,20,3,MR2,More Calpol is required
+DR148,Gerald Lopez,Neurologist,19.102874,72.855538,09:00,10:00,30,9,MR1,"Feedback form, Survey kit"
+DR149,Corey Smith,Dermatologist,19.039992,72.827815,11:00,12:00,20,2,MR1,"Feedback form, Survey kit"
+DR150,Kyle Freeman,Orthopedic,19.091245,72.830257,13:00,14:00,20,4,MR1,More Calpol is required
+DR151,Justin Collins,Dermatologist,19.074666,72.909228,09:00,10:00,15,3,MR3,"Product brochure, Samples, Feedback form"
+DR152,Thomas Thomas,Dermatologist,19.096232,72.919221,09:00,10:00,15,1,MR3,"Product brochure, Samples"
+DR153,Theresa Barber,Orthopedic,19.060558,72.893555,09:00,11:00,20,5,MR3,"Product brochure, Samples, Feedback form"
+DR154,Michael Wang,Orthopedic,19.109592,72.838664,12:00,14:00,15,3,MR3,Appointment confirmation slip
+DR155,Miss Mallory Wang,Dermatologist,19.125104,72.878372,10:00,12:00,20,9,MR3,More Calpol is required
+DR156,Katie Morrison,Cardiologist,19.124533,72.887144,10:00,12:00,20,2,MR1,Appointment confirmation slip
+DR157,Christopher Wilson,Neurologist,19.082232,72.894828,11:00,13:00,30,3,MR2,"Samples, Survey form"
+DR158,Zachary Green,Orthopedic,19.083264,72.925396,12:00,14:00,20,7,MR1,Visit after 8 days
+DR159,George Page,Orthopedic,19.100051,72.856076,10:00,11:00,30,10,MR3,More Calpol is required
+DR160,Tiffany Leblanc,Pediatrician,19.050308,72.895396,11:00,12:00,15,4,MR3,More Calpol is required
+DR161,Eileen Adams,Pediatrician,19.117515,72.886712,11:00,12:00,15,9,MR2,More Calpol is required
+DR162,Tonya Clarke,Oncologist,19.035819,72.877743,11:00,13:00,15,4,MR2,Visit after 8 days
+DR163,Leah Daniel,Cardiologist,19.097542,72.896364,10:00,11:00,15,5,MR2,"Product brochure, Samples"
+DR164,Derek Stewart,Cardiologist,19.03634,72.90692,11:00,13:00,30,3,MR1,"Product brochure, Samples"
+DR165,Robert Norris,Oncologist,19.075656,72.856809,13:00,14:00,15,5,MR1,Visit after 8 days
+DR166,Adam Wells,Oncologist,19.043456,72.883794,13:00,15:00,15,3,MR3,"Product brochure, Samples, Feedback form"
+DR167,Madison Cruz,Orthopedic,19.090588,72.895933,09:00,10:00,20,5,MR1,Paracetamol is req
+DR168,Penny Lee,Oncologist,19.05136,72.896832,14:00,16:00,20,7,MR3,Appointment confirmation slip
+DR169,Antonio Douglas,Orthopedic,19.104913,72.876009,12:00,13:00,30,2,MR1,Paracetamol is req
+DR170,Samantha Lindsey,Oncologist,19.074663,72.870332,12:00,13:00,15,2,MR3,"Brochure, Digital device for demo"
+DR171,Douglas Welch,Cardiologist,19.079096,72.866886,15:00,16:00,15,4,MR3,"Samples, Survey form"
+DR172,Alfred Todd,Neurologist,19.101437,72.855818,12:00,13:00,15,6,MR1,Visit after 8 days
+DR173,Lisa Romero,Dermatologist,19.077791,72.883942,11:00,13:00,20,1,MR1,Samples of new medicine requested
+DR174,Jacqueline Carroll,Neurologist,19.061947,72.926606,11:00,13:00,30,6,MR1,"Feedback form, Survey kit"
+DR175,Laura Marsh,Oncologist,19.123876,72.900704,15:00,17:00,30,10,MR1,Patient feedback needed
+DR176,James Rivera,Orthopedic,19.026604,72.92137,10:00,12:00,30,6,MR3,"Brochure, Digital device for demo"
+DR177,Gregory Lawrence,Dermatologist,19.050715,72.878057,12:00,13:00,30,10,MR1,"Product brochure, Samples"
+DR178,Robert Cross,Dermatologist,19.034471,72.84877,14:00,16:00,30,8,MR1,Samples of new medicine requested
+DR179,Aaron Patton,Neurologist,19.03151,72.875684,11:00,13:00,30,5,MR3,Patient feedback needed
+DR180,Christy Walker,Oncologist,19.083966,72.884447,14:00,15:00,20,4,MR2,"Product brochure, Samples, Feedback form"
+DR181,Gabriel Collins,Neurologist,19.08606,72.872287,13:00,15:00,15,10,MR2,"Product brochure, Samples"
+DR182,James Lee,Dermatologist,19.0494,72.881561,10:00,12:00,15,9,MR2,Appointment confirmation slip
+DR183,Peter Powers,Dermatologist,19.06556,72.879453,14:00,16:00,20,2,MR3,"Product brochure, Samples, Feedback form"
+DR184,Jennifer Kelly,Orthopedic,19.09565,72.862906,09:00,10:00,20,6,MR3,Visit after 8 days
+DR185,Nicole Anderson MD,Oncologist,19.082333,72.898299,12:00,13:00,30,4,MR2,Visit after 8 days
+DR186,Daniel Garcia DDS,Cardiologist,19.097928,72.87322,11:00,13:00,15,8,MR3,"Samples, Survey form"
+DR187,Joseph Nelson,Dermatologist,19.072052,72.902278,13:00,14:00,20,9,MR1,"Samples, Survey form"
+DR188,Dawn Cole,Cardiologist,19.110974,72.842083,11:00,12:00,30,9,MR2,Appointment confirmation slip
+DR189,Daniel Miranda,Pediatrician,19.076736,72.921718,12:00,14:00,15,4,MR1,"Brochure, Digital device for demo"
+DR190,Erica Sellers,Oncologist,19.120378,72.862851,10:00,11:00,30,9,MR2,"Product brochure, Samples, Feedback form"
+DR191,Daniel Little,Pediatrician,19.082801,72.872317,10:00,11:00,20,9,MR2,"Samples, Survey form"
+DR192,Megan Campos,Cardiologist,19.036178,72.868746,15:00,17:00,15,9,MR3,"Brochure, Digital device for demo"
+DR193,Shawn Reed,Dermatologist,19.117258,72.924246,13:00,15:00,15,8,MR2,Patient feedback needed
+DR194,Ray Garcia,Dermatologist,19.097876,72.885054,15:00,17:00,15,10,MR2,Patient feedback needed
+DR195,Cheryl Lester,Oncologist,19.029209,72.858584,15:00,16:00,20,10,MR3,"Product brochure, Samples"
+DR196,Ryan Compton,Orthopedic,19.093666,72.891362,15:00,16:00,30,8,MR3,Patient feedback needed
+DR197,Robert Benson,Orthopedic,19.06391,72.881423,14:00,15:00,30,10,MR2,"Feedback form, Survey kit"
+DR198,Emma Evans,Neurologist,19.036292,72.917053,13:00,15:00,15,10,MR2,"Brochure, Digital device for demo"
+DR199,Debra Soto,Dermatologist,19.055586,72.836575,13:00,15:00,15,2,MR2,"Product brochure, Samples"
+DR200,Terry Moody,Pediatrician,19.076424,72.879131,12:00,14:00,20,4,MR1,Samples of new medicine requested
+DR201,Amy Rogers,Dermatologist,19.048633,72.87112,10:00,12:00,15,6,MR1,"Product brochure, Samples"
+DR202,Paul Mcgrath,Cardiologist,19.092709,72.861959,14:00,15:00,30,7,MR3,"Product brochure, Samples"
+DR203,Douglas Kent,Pediatrician,19.080659,72.849121,14:00,15:00,20,4,MR3,"Brochure, Digital device for demo"
+DR204,Kimberly Anthony,Oncologist,19.100074,72.918998,13:00,15:00,30,5,MR3,"Product brochure, Samples, Feedback form"
+DR205,Robin Garner,Orthopedic,19.117466,72.917659,13:00,15:00,15,5,MR3,Visit after 8 days
+DR206,Jason Webster,Orthopedic,19.07464,72.875056,10:00,12:00,20,5,MR1,"Product brochure, Samples, Feedback form"
+DR207,Derek Huber,Pediatrician,19.109811,72.909746,14:00,16:00,20,6,MR3,Visit after 8 days
+DR208,Dr. Jason Jackson,Cardiologist,19.058875,72.89169,11:00,12:00,20,10,MR3,Appointment confirmation slip
+DR209,Katrina Thomas,Pediatrician,19.098668,72.861841,13:00,14:00,15,4,MR1,"Samples, Survey form"
+DR210,Lindsay Pierce,Cardiologist,19.032781,72.859143,15:00,16:00,15,4,MR3,Visit after 8 days
+DR211,Samantha Rodriguez,Neurologist,19.099971,72.918855,11:00,12:00,15,8,MR2,"Feedback form, Survey kit"
+DR212,Eric Taylor,Orthopedic,19.06204,72.906663,11:00,13:00,30,10,MR3,Patient feedback needed
+DR213,Chelsea Anthony,Neurologist,19.045215,72.864687,11:00,13:00,30,5,MR3,"Samples, Survey form"
+DR214,Victoria Le,Oncologist,19.052488,72.859493,09:00,10:00,15,1,MR1,"Brochure, Digital device for demo"
+DR215,Leonard Townsend,Cardiologist,19.099149,72.859712,14:00,16:00,15,9,MR3,Paracetamol is req
+DR216,Nancy Mcneil,Orthopedic,19.106974,72.888816,13:00,14:00,20,3,MR1,"Product brochure, Samples, Feedback form"
+DR217,Christopher Perez,Oncologist,19.039145,72.894923,10:00,12:00,15,3,MR3,Appointment confirmation slip
+DR218,Joshua Hull,Pediatrician,19.054996,72.851734,09:00,10:00,15,7,MR2,Patient feedback needed
+DR219,Sonya Miller,Cardiologist,19.044586,72.895456,09:00,10:00,30,3,MR3,"Samples, Survey form"
+DR220,Jonathan Stokes,Pediatrician,19.055598,72.899559,15:00,16:00,20,5,MR3,Samples of new medicine requested
+DR221,Scott Castillo,Dermatologist,19.085477,72.843398,11:00,13:00,15,5,MR3,"Product brochure, Samples"
+DR222,Marc Castaneda,Neurologist,19.070706,72.911163,09:00,10:00,15,6,MR2,Visit after 8 days
+DR223,Joshua Mullins,Orthopedic,19.108694,72.827713,11:00,12:00,20,10,MR1,"Samples, Survey form"
+DR224,Crystal Gonzalez,Orthopedic,19.082201,72.921288,15:00,17:00,30,5,MR1,Patient feedback needed
+DR225,Angela Cox,Oncologist,19.041291,72.861603,11:00,12:00,15,7,MR1,"Product brochure, Samples"
+DR226,Eric Pena,Neurologist,19.049527,72.875849,12:00,14:00,20,7,MR2,Patient feedback needed
+DR227,Jose James,Orthopedic,19.062779,72.840565,09:00,11:00,20,5,MR2,"Samples, Survey form"
+DR228,Jessica Richardson,Neurologist,19.082132,72.891514,12:00,14:00,30,7,MR1,"Product brochure, Samples"
+DR229,Kimberly Green,Orthopedic,19.108203,72.884541,15:00,17:00,20,10,MR2,"Product brochure, Samples"
+DR230,Stephanie Miller,Dermatologist,19.111412,72.9159,15:00,16:00,20,3,MR3,"Samples, Survey form"
+DR231,Kristy Smith,Oncologist,19.030226,72.916099,15:00,16:00,30,5,MR2,"Brochure, Digital device for demo"
+DR232,Bryce Harris,Neurologist,19.096767,72.856565,15:00,17:00,15,4,MR3,"Samples, Survey form"
+DR233,Richard Brown,Dermatologist,19.098364,72.874218,14:00,16:00,15,7,MR1,"Product brochure, Samples"
+DR234,Jon Meadows,Neurologist,19.073546,72.904861,14:00,16:00,20,8,MR3,Paracetamol is req
+DR235,Craig Mccoy,Orthopedic,19.093717,72.870356,10:00,11:00,20,1,MR2,Patient feedback needed
+DR236,Mrs. Jodi Harper,Dermatologist,19.05091,72.865486,13:00,14:00,20,5,MR2,More Calpol is required
+DR237,Jennifer Hernandez,Neurologist,19.040741,72.891962,11:00,13:00,20,6,MR1,"Product brochure, Samples, Feedback form"
+DR238,Sean Nichols,Pediatrician,19.063782,72.840028,10:00,12:00,15,4,MR3,Visit after 8 days
+DR239,Megan Edwards,Neurologist,19.046303,72.913719,14:00,16:00,30,3,MR3,"Product brochure, Samples"
+DR240,Amy Ramirez,Cardiologist,19.093569,72.851132,09:00,11:00,30,1,MR3,"Product brochure, Samples, Feedback form"
+DR241,Diane Morrison,Oncologist,19.100133,72.917904,13:00,14:00,30,1,MR2,Paracetamol is req
+DR242,Kathleen Barker,Cardiologist,19.079289,72.858293,09:00,10:00,15,5,MR2,"Product brochure, Samples, Feedback form"
+DR243,Ronald Hall,Cardiologist,19.081607,72.889383,15:00,17:00,30,6,MR3,"Feedback form, Survey kit"
+DR244,Michael Fisher,Neurologist,19.09248,72.830753,15:00,16:00,20,7,MR3,"Product brochure, Samples"
+DR245,Margaret Woods,Cardiologist,19.096367,72.903659,15:00,16:00,30,3,MR2,Samples of new medicine requested
+DR246,Patricia Daniels,Neurologist,19.056251,72.827772,09:00,11:00,30,1,MR3,Visit after 8 days
+DR247,Ryan Pierce,Cardiologist,19.065896,72.865574,09:00,10:00,30,4,MR1,Samples of new medicine requested
+DR248,Emily Shaffer,Neurologist,19.109297,72.92392,09:00,10:00,20,9,MR3,"Product brochure, Samples, Feedback form"
+DR249,Misty Wolf,Dermatologist,19.106738,72.926555,10:00,12:00,15,9,MR3,"Samples, Survey form"
+DR250,Daniel White,Orthopedic,19.049051,72.871614,09:00,10:00,30,7,MR1,"Feedback form, Survey kit"
+DR251,Trevor Powers,Pediatrician,19.045294,72.831716,12:00,13:00,30,1,MR1,Patient feedback needed
+DR252,Brian Martin,Cardiologist,19.083944,72.918074,12:00,14:00,30,1,MR2,"Product brochure, Samples, Feedback form"
+DR253,Tammy Davidson,Dermatologist,19.125542,72.852516,10:00,11:00,30,3,MR2,"Samples, Survey form"
+DR254,Jennifer Thompson,Cardiologist,19.100396,72.899456,15:00,16:00,20,4,MR1,"Samples, Survey form"
+DR255,Andrea Nelson,Pediatrician,19.050591,72.92499,10:00,12:00,20,6,MR2,"Samples, Survey form"
+DR256,Yvonne Smith,Dermatologist,19.036519,72.889032,10:00,11:00,15,8,MR3,More Calpol is required
+DR257,Christopher Watson,Oncologist,19.030056,72.91809,14:00,15:00,15,8,MR2,"Brochure, Digital device for demo"
+DR258,Robert Chambers,Oncologist,19.108533,72.883012,14:00,16:00,30,2,MR2,"Product brochure, Samples, Feedback form"
+DR259,Melissa Robertson,Neurologist,19.109384,72.838263,11:00,13:00,20,10,MR2,"Feedback form, Survey kit"
+DR260,Dr. Christopher Martin,Oncologist,19.102604,72.902693,09:00,10:00,30,7,MR3,Visit after 8 days
+DR261,Craig Fernandez,Oncologist,19.076672,72.874062,10:00,11:00,15,9,MR2,"Brochure, Digital device for demo"
+DR262,James Brown,Neurologist,19.067737,72.918803,15:00,17:00,15,3,MR1,Samples of new medicine requested
+DR263,Laurie Davis,Cardiologist,19.06284,72.854907,14:00,16:00,30,2,MR2,Visit after 8 days
+DR264,Heather Shepherd,Dermatologist,19.113346,72.884253,11:00,13:00,15,2,MR1,Visit after 8 days
+DR265,Jimmy Cummings,Pediatrician,19.096505,72.849611,13:00,14:00,30,4,MR3,"Brochure, Digital device for demo"
+DR266,Kayla Chapman,Neurologist,19.122868,72.845323,13:00,14:00,20,9,MR3,Samples of new medicine requested
+DR267,Pamela Swanson,Neurologist,19.090129,72.855253,12:00,13:00,15,7,MR2,Paracetamol is req
+DR268,Kevin Smith,Neurologist,19.065432,72.885361,11:00,13:00,15,2,MR3,Paracetamol is req
+DR269,Cynthia Butler,Pediatrician,19.083507,72.893195,09:00,10:00,15,2,MR1,Patient feedback needed
+DR270,Keith Alexander,Dermatologist,19.069989,72.916216,09:00,11:00,15,1,MR3,"Product brochure, Samples"
+DR271,Scott Gonzalez,Oncologist,19.108516,72.845574,11:00,13:00,15,3,MR2,Patient feedback needed
+DR272,Julie Acevedo,Oncologist,19.042119,72.904151,13:00,14:00,15,2,MR1,"Feedback form, Survey kit"
+DR273,Kimberly Chavez,Cardiologist,19.033472,72.869843,13:00,14:00,30,2,MR2,Appointment confirmation slip
+DR274,Sabrina Hernandez,Dermatologist,19.050055,72.834292,11:00,13:00,20,6,MR2,Samples of new medicine requested
+DR275,Lori Gordon,Cardiologist,19.047688,72.905879,15:00,16:00,15,3,MR2,Paracetamol is req
+DR276,Jacob Taylor,Oncologist,19.124755,72.852379,10:00,12:00,20,5,MR1,Paracetamol is req
+DR277,David Clark,Oncologist,19.093495,72.865585,14:00,16:00,30,9,MR2,More Calpol is required
+DR278,Alan George,Cardiologist,19.076288,72.908617,15:00,16:00,30,9,MR1,Samples of new medicine requested
+DR279,Jason Carter,Oncologist,19.036889,72.847066,14:00,16:00,15,9,MR1,"Samples, Survey form"
+DR280,Crystal Marquez,Orthopedic,19.075573,72.847889,12:00,13:00,15,7,MR1,Paracetamol is req
+DR281,Jennifer Leblanc DDS,Neurologist,19.085816,72.868263,11:00,13:00,20,6,MR2,Samples of new medicine requested
+DR282,Richard Brown,Oncologist,19.116223,72.918512,15:00,17:00,20,5,MR2,"Samples, Survey form"
+DR283,Scott Lucas,Orthopedic,19.099987,72.927647,12:00,14:00,30,1,MR3,"Product brochure, Samples"
+DR284,Tanya Anderson,Neurologist,19.105616,72.86525,10:00,11:00,15,3,MR1,"Product brochure, Samples"
+DR285,Mikayla Morris,Pediatrician,19.087642,72.86746,11:00,13:00,30,4,MR2,"Feedback form, Survey kit"
+DR286,Logan Cruz,Dermatologist,19.110948,72.828646,13:00,15:00,30,3,MR3,Paracetamol is req
+DR287,Mrs. Shannon Smith,Pediatrician,19.125977,72.863565,09:00,10:00,15,3,MR2,Patient feedback needed
+DR288,Tyler Day,Dermatologist,19.052281,72.835298,11:00,13:00,20,5,MR3,Patient feedback needed
+DR289,Jessica Ramirez,Oncologist,19.074448,72.926636,12:00,13:00,30,5,MR2,"Brochure, Digital device for demo"
+DR290,Jason Johnson,Cardiologist,19.047475,72.852227,10:00,12:00,30,8,MR3,Patient feedback needed
+DR291,Michael Thomas,Neurologist,19.048582,72.915825,10:00,12:00,20,3,MR2,Patient feedback needed
+DR292,Lori Merritt,Pediatrician,19.038097,72.887925,10:00,12:00,30,6,MR3,"Brochure, Digital device for demo"
+DR293,Frank Anderson,Dermatologist,19.080078,72.881465,15:00,16:00,30,7,MR3,Visit after 8 days
+DR294,Daniel Brandt,Oncologist,19.116079,72.912209,09:00,10:00,20,10,MR3,More Calpol is required
+DR295,Scott Charles,Pediatrician,19.054976,72.898052,12:00,13:00,20,1,MR2,"Feedback form, Survey kit"
+DR296,Megan Bray,Pediatrician,19.05801,72.900672,10:00,12:00,20,8,MR1,"Samples, Survey form"
+DR297,Chase Carter,Dermatologist,19.050096,72.841713,15:00,16:00,30,5,MR3,More Calpol is required
+DR298,Kristina Sanchez,Neurologist,19.102091,72.879825,09:00,11:00,20,1,MR3,"Feedback form, Survey kit"
+DR299,Breanna White DDS,Dermatologist,19.04101,72.91163,10:00,11:00,15,5,MR2,"Feedback form, Survey kit"
+DR300,Chad Smith,Cardiologist,19.039985,72.903751,12:00,13:00,15,5,MR1,"Feedback form, Survey kit"
+DR301,Beth Taylor,Oncologist,19.026324,72.840562,11:00,13:00,20,6,MR1,More Calpol is required
+DR302,Alice Castillo,Cardiologist,19.122471,72.904285,11:00,13:00,15,10,MR1,"Product brochure, Samples, Feedback form"
+DR303,Michelle Casey,Neurologist,19.071909,72.834572,15:00,17:00,20,4,MR2,Samples of new medicine requested
+DR304,Shelly Lowe,Dermatologist,19.113656,72.827884,14:00,15:00,20,8,MR2,"Product brochure, Samples, Feedback form"
+DR305,Nicole Hensley,Pediatrician,19.028299,72.926175,11:00,12:00,20,1,MR3,"Feedback form, Survey kit"
+DR306,John Smith,Neurologist,19.027378,72.920237,15:00,17:00,30,3,MR3,Visit after 8 days
+DR307,Steven Blevins,Dermatologist,19.088969,72.891423,11:00,12:00,30,4,MR2,"Product brochure, Samples"
+DR308,Bill Nelson,Cardiologist,19.042001,72.895247,11:00,12:00,15,8,MR2,"Product brochure, Samples, Feedback form"
+DR309,Patrick Williams,Pediatrician,19.099793,72.897305,09:00,11:00,15,7,MR3,"Samples, Survey form"
+DR310,Kyle Ross,Pediatrician,19.054303,72.874219,13:00,15:00,15,8,MR3,Visit after 8 days
+DR311,Chase Alexander,Orthopedic,19.091007,72.872001,09:00,10:00,30,4,MR3,"Product brochure, Samples, Feedback form"
+DR312,Monica Burch,Neurologist,19.039929,72.833581,11:00,12:00,20,4,MR3,"Feedback form, Survey kit"
+DR313,Daniel Howard,Cardiologist,19.12069,72.834423,09:00,11:00,30,1,MR2,"Product brochure, Samples, Feedback form"
+DR314,Amy Carlson,Neurologist,19.083113,72.899488,09:00,11:00,15,4,MR3,"Product brochure, Samples, Feedback form"
+DR315,Mark Hensley,Dermatologist,19.049552,72.898894,14:00,15:00,15,3,MR3,"Samples, Survey form"
+DR316,Jeffery Herrera,Orthopedic,19.122164,72.855873,15:00,16:00,15,3,MR2,Samples of new medicine requested
+DR317,Jerry Copeland,Dermatologist,19.075391,72.911781,09:00,10:00,15,5,MR3,Paracetamol is req
+DR318,Jeremiah Cooper,Neurologist,19.119116,72.88809,13:00,15:00,15,9,MR2,"Brochure, Digital device for demo"
+DR319,Jacob Vazquez,Cardiologist,19.111264,72.896781,11:00,12:00,15,9,MR3,"Product brochure, Samples"
+DR320,Leah Gomez,Oncologist,19.079004,72.863187,14:00,15:00,20,6,MR3,"Product brochure, Samples"
+DR321,Brandon Knight DDS,Oncologist,19.052706,72.895441,11:00,12:00,30,8,MR2,"Product brochure, Samples, Feedback form"
+DR322,Jessica Compton,Orthopedic,19.03839,72.885906,13:00,15:00,15,7,MR2,"Feedback form, Survey kit"
+DR323,Michael Johnson,Cardiologist,19.095434,72.840641,12:00,13:00,15,7,MR3,"Product brochure, Samples, Feedback form"
+DR324,Joseph Cox,Oncologist,19.043411,72.893857,12:00,13:00,30,1,MR3,More Calpol is required
+DR325,Andrew Hicks,Pediatrician,19.042585,72.912944,15:00,16:00,20,9,MR1,More Calpol is required
+DR326,Stephanie Pollard,Orthopedic,19.03761,72.895724,11:00,13:00,20,9,MR3,More Calpol is required
+DR327,Alicia Lopez,Cardiologist,19.041798,72.872669,14:00,15:00,30,9,MR3,"Product brochure, Samples, Feedback form"
+DR328,Daniel White,Pediatrician,19.120655,72.913478,10:00,12:00,20,8,MR1,"Feedback form, Survey kit"
+DR329,Julie Miller,Cardiologist,19.093763,72.921374,13:00,14:00,15,9,MR2,"Feedback form, Survey kit"
+DR330,Michael Norman,Pediatrician,19.044655,72.891026,10:00,12:00,15,5,MR3,More Calpol is required
+DR331,Madeline White,Cardiologist,19.032686,72.832042,14:00,16:00,30,5,MR1,Visit after 8 days
+DR332,Michelle Anderson,Pediatrician,19.050787,72.896126,09:00,11:00,20,9,MR1,"Feedback form, Survey kit"
+DR333,Casey Mosley,Oncologist,19.091271,72.884749,09:00,11:00,15,8,MR3,Appointment confirmation slip
+DR334,Joshua Mahoney,Oncologist,19.046205,72.836842,15:00,16:00,15,3,MR3,More Calpol is required
+DR335,Bryan Leach,Cardiologist,19.038313,72.92661,09:00,11:00,15,1,MR3,More Calpol is required
+DR336,Kristen Gilbert,Cardiologist,19.09912,72.858696,10:00,12:00,20,2,MR1,Visit after 8 days
+DR337,Lisa Morris,Oncologist,19.095662,72.919047,13:00,14:00,20,7,MR1,Patient feedback needed
+DR338,Craig Flowers,Oncologist,19.032282,72.891061,14:00,16:00,15,2,MR3,Samples of new medicine requested
+DR339,David Russo,Oncologist,19.047052,72.924699,10:00,11:00,30,8,MR1,Paracetamol is req
+DR340,Maria Garcia,Pediatrician,19.092228,72.885925,12:00,14:00,30,10,MR3,More Calpol is required
+DR341,Brandi Hoover,Pediatrician,19.098268,72.832319,14:00,15:00,15,9,MR2,"Samples, Survey form"
+DR342,Penny Johnson,Oncologist,19.040588,72.853433,11:00,12:00,15,9,MR1,"Product brochure, Samples, Feedback form"
+DR343,Brandon Moore,Orthopedic,19.082477,72.919472,15:00,17:00,15,2,MR2,Paracetamol is req
+DR344,Ashley Page,Cardiologist,19.078701,72.911792,11:00,12:00,15,2,MR3,"Brochure, Digital device for demo"
+DR345,Cathy Miller,Pediatrician,19.03829,72.868082,14:00,16:00,20,8,MR2,"Feedback form, Survey kit"
+DR346,Shawn Garcia,Orthopedic,19.110762,72.860722,15:00,17:00,30,9,MR2,"Samples, Survey form"
+DR347,Robert Mcdonald,Dermatologist,19.030219,72.855785,12:00,13:00,30,9,MR2,"Feedback form, Survey kit"
+DR348,Mark Shepard,Neurologist,19.073425,72.92251,10:00,11:00,30,7,MR3,"Product brochure, Samples, Feedback form"
+DR349,Hannah Ross,Cardiologist,19.088871,72.872995,11:00,12:00,20,9,MR3,"Samples, Survey form"
+DR350,Andrew Harrison,Oncologist,19.056313,72.841921,14:00,15:00,15,7,MR3,Samples of new medicine requested
+DR351,Tyler Navarro,Dermatologist,19.02805,72.830255,12:00,14:00,15,1,MR2,More Calpol is required
+DR352,Thomas Taylor,Dermatologist,19.052159,72.853564,12:00,14:00,20,8,MR3,"Brochure, Digital device for demo"
+DR353,Bobby Thompson,Orthopedic,19.045556,72.898553,11:00,12:00,20,3,MR3,"Samples, Survey form"
+DR354,Richard Higgins,Pediatrician,19.030285,72.864674,11:00,13:00,30,7,MR3,Patient feedback needed
+DR355,Blake Nguyen,Dermatologist,19.09128,72.875107,15:00,17:00,30,9,MR2,"Feedback form, Survey kit"
+DR356,Marissa Chavez,Cardiologist,19.037175,72.878269,11:00,13:00,20,5,MR1,Patient feedback needed
+DR357,Brittany Diaz,Oncologist,19.08599,72.87914,15:00,16:00,20,4,MR3,"Feedback form, Survey kit"
+DR358,Christy Rosales,Orthopedic,19.090797,72.860724,09:00,11:00,20,4,MR2,"Samples, Survey form"
+DR359,Alexandra Terry,Neurologist,19.075148,72.859107,15:00,17:00,15,1,MR3,"Product brochure, Samples, Feedback form"
+DR360,Marc Brown,Orthopedic,19.106388,72.901033,15:00,16:00,30,8,MR3,"Product brochure, Samples, Feedback form"
+DR361,Kristin Bell,Neurologist,19.035107,72.915128,15:00,16:00,15,4,MR2,Patient feedback needed
+DR362,Bonnie Glass,Neurologist,19.047559,72.852048,15:00,16:00,30,1,MR1,Appointment confirmation slip
+DR363,Daniel Hurst,Oncologist,19.105072,72.869924,15:00,16:00,20,7,MR2,Paracetamol is req
+DR364,Cynthia Hahn,Oncologist,19.118426,72.830541,14:00,16:00,15,9,MR1,Visit after 8 days
+DR365,Gabriel Wise,Orthopedic,19.0559,72.903866,13:00,14:00,20,7,MR2,"Brochure, Digital device for demo"
+DR366,Ashlee Lee,Oncologist,19.036812,72.915837,10:00,11:00,15,5,MR2,Appointment confirmation slip
+DR367,Michael Olson,Orthopedic,19.094131,72.898035,12:00,13:00,20,5,MR2,Appointment confirmation slip
+DR368,Samantha Love,Neurologist,19.049673,72.910591,09:00,10:00,15,9,MR2,"Feedback form, Survey kit"
+DR369,Edwin Scott,Pediatrician,19.10826,72.856658,15:00,16:00,30,4,MR2,More Calpol is required
+DR370,Michael Thompson,Dermatologist,19.081176,72.903969,09:00,10:00,30,3,MR2,"Brochure, Digital device for demo"
+DR371,Jennifer Warner,Neurologist,19.106687,72.87657,13:00,14:00,30,3,MR2,Appointment confirmation slip
+DR372,Brittany Yates,Dermatologist,19.030521,72.841638,11:00,12:00,20,2,MR2,Samples of new medicine requested
+DR373,Kevin Hicks,Cardiologist,19.091179,72.859679,11:00,12:00,20,4,MR3,"Feedback form, Survey kit"
+DR374,Mary Flynn,Neurologist,19.040725,72.904737,13:00,14:00,20,9,MR3,Samples of new medicine requested
+DR375,Lori Jones,Pediatrician,19.053066,72.832121,09:00,10:00,30,1,MR1,"Feedback form, Survey kit"
+DR376,Rachel Cook,Cardiologist,19.06544,72.835988,12:00,13:00,20,7,MR1,Appointment confirmation slip
+DR377,Gary Dominguez,Pediatrician,19.037998,72.856136,14:00,15:00,15,4,MR2,Patient feedback needed
+DR378,Dr. Nicholas Farrell,Cardiologist,19.029397,72.924648,11:00,12:00,20,6,MR1,Samples of new medicine requested
+DR379,James Smith,Oncologist,19.092896,72.835551,13:00,15:00,30,3,MR2,Visit after 8 days
+DR380,Amber Lee,Orthopedic,19.059883,72.898815,15:00,17:00,30,8,MR3,"Samples, Survey form"
+DR381,Scott Schroeder,Oncologist,19.092012,72.894667,13:00,15:00,15,9,MR2,"Feedback form, Survey kit"
+DR382,Gregory Oliver,Cardiologist,19.028907,72.840512,12:00,13:00,30,4,MR3,"Product brochure, Samples, Feedback form"
+DR383,Margaret Ochoa,Oncologist,19.041793,72.894468,10:00,11:00,20,1,MR3,Visit after 8 days
+DR384,Michael Martinez,Orthopedic,19.086484,72.919294,10:00,12:00,15,4,MR2,Paracetamol is req
+DR385,Amanda Barnett,Dermatologist,19.043507,72.830804,13:00,15:00,20,4,MR1,"Brochure, Digital device for demo"
+DR386,David Barnett,Neurologist,19.080962,72.833073,12:00,14:00,30,9,MR3,Visit after 8 days
+DR387,Robert Cabrera,Neurologist,19.107587,72.839327,09:00,11:00,20,6,MR1,"Samples, Survey form"
+DR388,Michael Snyder Jr.,Pediatrician,19.096876,72.870023,15:00,17:00,30,7,MR1,Patient feedback needed
+DR389,Troy Jones,Pediatrician,19.091918,72.883472,12:00,14:00,15,1,MR2,Visit after 8 days
+DR390,Peter Simon,Orthopedic,19.100026,72.925042,09:00,10:00,30,5,MR3,Paracetamol is req
+DR391,David Harris,Pediatrician,19.060879,72.881578,12:00,13:00,30,7,MR1,"Product brochure, Samples, Feedback form"
+DR392,Sheila Jones,Orthopedic,19.099446,72.918031,10:00,12:00,30,5,MR1,"Brochure, Digital device for demo"
+DR393,Jessica Velasquez,Neurologist,19.033401,72.926576,15:00,17:00,15,10,MR2,Visit after 8 days
+DR394,Steven Fowler,Orthopedic,19.114727,72.834064,13:00,14:00,20,6,MR3,"Brochure, Digital device for demo"
+DR395,Caleb Benson,Orthopedic,19.075318,72.844349,09:00,10:00,30,3,MR3,Samples of new medicine requested
+DR396,Amanda Johnson,Neurologist,19.089208,72.845521,10:00,12:00,15,4,MR3,"Product brochure, Samples"
+DR397,Gabriela Johnson,Neurologist,19.034474,72.867946,15:00,17:00,30,9,MR2,Appointment confirmation slip
+DR398,Michelle Scott,Neurologist,19.114334,72.849694,11:00,13:00,15,8,MR3,More Calpol is required
+DR399,Daniel Torres,Cardiologist,19.106821,72.836381,12:00,14:00,15,2,MR3,More Calpol is required
+DR400,Christina Scott,Pediatrician,19.11742,72.923293,12:00,14:00,30,2,MR1,"Product brochure, Samples, Feedback form"
+DR401,Colleen Griffin,Pediatrician,19.050583,72.844815,11:00,13:00,15,4,MR1,"Brochure, Digital device for demo"
+DR402,Phillip Jones,Dermatologist,19.08965,72.904823,10:00,12:00,30,9,MR2,Patient feedback needed
+DR403,Claudia Bond,Pediatrician,19.036283,72.869956,15:00,16:00,30,4,MR2,More Calpol is required
+DR404,Michelle Lopez,Pediatrician,19.1039,72.881183,14:00,16:00,15,1,MR1,Paracetamol is req
+DR405,Jacob Anderson,Neurologist,19.043123,72.903012,09:00,11:00,30,8,MR3,"Product brochure, Samples, Feedback form"
+DR406,Emily Jenkins,Oncologist,19.110072,72.860802,11:00,13:00,30,9,MR1,Paracetamol is req
+DR407,John French,Oncologist,19.070657,72.848338,09:00,11:00,15,5,MR1,Samples of new medicine requested
+DR408,Roger Hart,Pediatrician,19.027323,72.905259,09:00,10:00,30,7,MR3,More Calpol is required
+DR409,Shannon Phillips,Neurologist,19.027854,72.913106,12:00,14:00,30,3,MR3,Visit after 8 days
+DR410,John Johnson,Dermatologist,19.028622,72.872606,09:00,10:00,20,2,MR3,"Product brochure, Samples"
+DR411,Shelby Lara,Neurologist,19.061316,72.895343,10:00,12:00,20,6,MR1,"Product brochure, Samples, Feedback form"
+DR412,Amanda Myers,Cardiologist,19.113915,72.829315,15:00,16:00,15,7,MR3,"Brochure, Digital device for demo"
+DR413,Victoria Rodriguez,Neurologist,19.084549,72.894246,15:00,17:00,15,5,MR1,Appointment confirmation slip
+DR414,Dr. Amy Carlson,Oncologist,19.113666,72.845969,14:00,15:00,15,8,MR1,"Samples, Survey form"
+DR415,Matthew Cooper,Oncologist,19.103711,72.877983,09:00,10:00,30,7,MR1,More Calpol is required
+DR416,Jessica Reyes,Orthopedic,19.105421,72.886153,09:00,10:00,30,5,MR1,Samples of new medicine requested
+DR417,Melanie White,Orthopedic,19.069555,72.875194,11:00,13:00,20,10,MR1,Samples of new medicine requested
+DR418,James Ellis,Orthopedic,19.101624,72.891769,09:00,11:00,30,4,MR3,Patient feedback needed
+DR419,Mark Jenkins,Orthopedic,19.072857,72.848248,13:00,14:00,15,4,MR1,"Feedback form, Survey kit"
+DR420,Amber White,Dermatologist,19.076976,72.857849,11:00,12:00,30,2,MR2,Samples of new medicine requested
+DR421,Matthew Ortiz,Orthopedic,19.119667,72.920113,13:00,14:00,30,9,MR1,Samples of new medicine requested
+DR422,Rachel Arnold,Neurologist,19.09425,72.916018,15:00,16:00,15,10,MR1,Appointment confirmation slip
+DR423,Maxwell Hester,Orthopedic,19.105269,72.8478,13:00,14:00,30,6,MR3,Paracetamol is req
+DR424,Dean Parker,Neurologist,19.116783,72.868529,15:00,17:00,15,3,MR3,More Calpol is required
+DR425,Alexis Simon,Pediatrician,19.122359,72.893691,15:00,16:00,15,1,MR3,Samples of new medicine requested
+DR426,Victoria Booth,Orthopedic,19.080889,72.895453,10:00,12:00,20,4,MR2,Visit after 8 days
+DR427,Todd Michael,Pediatrician,19.110051,72.895259,09:00,11:00,15,3,MR3,"Feedback form, Survey kit"
+DR428,Melissa Meyer,Dermatologist,19.10543,72.835599,09:00,10:00,30,6,MR2,"Feedback form, Survey kit"
+DR429,Joshua Robinson,Pediatrician,19.045247,72.841879,13:00,14:00,30,10,MR3,Patient feedback needed
+DR430,Darren Rodriguez,Oncologist,19.029265,72.8829,11:00,12:00,15,6,MR1,Patient feedback needed
+DR431,John Nelson,Pediatrician,19.047568,72.87884,13:00,15:00,20,8,MR1,Visit after 8 days
+DR432,Erik Nicholson,Neurologist,19.10619,72.875325,14:00,15:00,20,7,MR3,"Product brochure, Samples"
+DR433,Robert Sanchez,Cardiologist,19.08381,72.835027,10:00,12:00,20,3,MR1,Paracetamol is req
+DR434,Emily Elliott,Dermatologist,19.110362,72.91189,15:00,16:00,30,7,MR2,"Product brochure, Samples"
+DR435,Philip Patton,Cardiologist,19.096262,72.861979,11:00,12:00,20,3,MR3,Paracetamol is req
+DR436,Christopher Hall,Oncologist,19.058826,72.87784,11:00,13:00,15,6,MR3,Samples of new medicine requested
+DR437,Johnathan Ford,Dermatologist,19.084176,72.880259,14:00,15:00,15,6,MR2,Appointment confirmation slip
+DR438,Derek Hughes,Neurologist,19.070607,72.889404,11:00,12:00,30,7,MR1,"Samples, Survey form"
+DR439,Scott Bennett,Dermatologist,19.050257,72.891719,10:00,12:00,15,7,MR3,Samples of new medicine requested
+DR440,Christopher Harris,Pediatrician,19.107706,72.896817,10:00,11:00,30,10,MR2,"Feedback form, Survey kit"
+DR441,David Brown,Cardiologist,19.120658,72.867506,11:00,12:00,20,1,MR2,Paracetamol is req
+DR442,Dana Baxter,Oncologist,19.119067,72.861677,13:00,14:00,30,6,MR3,Samples of new medicine requested
+DR443,Adam Schneider,Oncologist,19.053137,72.917782,15:00,16:00,30,2,MR3,"Feedback form, Survey kit"
+DR444,Crystal Wright,Dermatologist,19.112069,72.90078,12:00,13:00,20,2,MR3,Appointment confirmation slip
+DR445,Adam Barrett,Pediatrician,19.123334,72.883882,11:00,13:00,30,9,MR3,"Feedback form, Survey kit"
+DR446,David Marshall,Pediatrician,19.054082,72.915494,10:00,11:00,15,8,MR3,Paracetamol is req
+DR447,Victoria Stephens,Dermatologist,19.10717,72.908325,09:00,11:00,15,2,MR2,Visit after 8 days
+DR448,Andre Moore,Dermatologist,19.094738,72.892002,13:00,15:00,15,6,MR2,"Feedback form, Survey kit"
+DR449,Wayne Cabrera,Oncologist,19.125231,72.855474,10:00,11:00,20,2,MR1,Appointment confirmation slip
+DR450,Lisa Hopkins,Cardiologist,19.071438,72.926917,14:00,15:00,15,3,MR3,"Brochure, Digital device for demo"
+DR451,Austin Singleton,Oncologist,19.097606,72.912563,12:00,13:00,30,10,MR2,Appointment confirmation slip
+DR452,Corey King,Pediatrician,19.053836,72.904721,09:00,11:00,20,9,MR3,"Feedback form, Survey kit"
+DR453,Kristine Espinoza,Orthopedic,19.03701,72.866292,11:00,13:00,30,3,MR1,"Product brochure, Samples"
+DR454,John Khan,Pediatrician,19.114621,72.864446,14:00,15:00,15,1,MR2,"Feedback form, Survey kit"
+DR455,Rebecca Graham,Cardiologist,19.026836,72.900835,09:00,11:00,30,9,MR2,Patient feedback needed
+DR456,Steven Hernandez,Neurologist,19.123346,72.839578,13:00,15:00,15,10,MR2,"Product brochure, Samples, Feedback form"
+DR457,Gary Williams,Cardiologist,19.106114,72.828938,12:00,13:00,30,7,MR3,Appointment confirmation slip
+DR458,Ashley Anderson,Orthopedic,19.115549,72.886331,10:00,12:00,15,6,MR1,Patient feedback needed
+DR459,Christine Hernandez,Pediatrician,19.125336,72.856271,09:00,11:00,30,5,MR1,Paracetamol is req
+DR460,Karen Brown,Dermatologist,19.047923,72.850453,11:00,13:00,15,1,MR2,More Calpol is required
+DR461,Vanessa Underwood,Cardiologist,19.0795,72.862252,09:00,10:00,15,5,MR1,"Product brochure, Samples, Feedback form"
+DR462,Dr. Crystal Hayes,Oncologist,19.067625,72.900013,10:00,11:00,15,2,MR1,"Feedback form, Survey kit"
+DR463,Juan Collins,Pediatrician,19.032629,72.890336,13:00,15:00,15,5,MR3,Paracetamol is req
+DR464,Michelle Hale,Pediatrician,19.081608,72.883491,11:00,12:00,20,7,MR1,"Product brochure, Samples"
+DR465,Andrew Johnson,Oncologist,19.106988,72.921006,14:00,15:00,30,1,MR2,Samples of new medicine requested
+DR466,Jeffrey Brown,Pediatrician,19.119414,72.831374,13:00,15:00,15,7,MR1,Visit after 8 days
+DR467,Nicole Payne,Neurologist,19.107254,72.916861,14:00,16:00,30,7,MR2,"Samples, Survey form"
+DR468,Jesse Perez,Dermatologist,19.079572,72.829395,12:00,13:00,30,9,MR2,Patient feedback needed
+DR469,Gilbert Torres,Cardiologist,19.053925,72.889786,09:00,11:00,30,1,MR1,Samples of new medicine requested
+DR470,Danny Kelley,Orthopedic,19.076801,72.849208,15:00,16:00,15,1,MR2,Visit after 8 days
+DR471,Samuel Johnson,Neurologist,19.067573,72.892141,13:00,15:00,30,2,MR2,"Brochure, Digital device for demo"
+DR472,Kelly Estrada,Oncologist,19.028414,72.843072,10:00,12:00,30,4,MR2,More Calpol is required
+DR473,Michael Jones,Dermatologist,19.059826,72.895867,09:00,11:00,30,10,MR1,"Product brochure, Samples"
+DR474,Christian Lee,Neurologist,19.097727,72.880196,14:00,15:00,15,5,MR2,Patient feedback needed
+DR475,Melissa Brown,Pediatrician,19.121726,72.885447,13:00,15:00,30,6,MR2,"Feedback form, Survey kit"
+DR476,Kevin Bridges,Dermatologist,19.064272,72.911504,10:00,11:00,30,10,MR1,"Feedback form, Survey kit"
+DR477,Jordan George,Cardiologist,19.105897,72.921444,15:00,16:00,15,8,MR2,"Feedback form, Survey kit"
+DR478,Alan Golden,Pediatrician,19.122691,72.836195,09:00,10:00,15,9,MR3,"Product brochure, Samples, Feedback form"
+DR479,Debra Abbott,Dermatologist,19.102425,72.890305,09:00,11:00,20,4,MR2,"Product brochure, Samples"
+DR480,Mario Cohen,Orthopedic,19.041203,72.913472,11:00,13:00,30,6,MR2,"Feedback form, Survey kit"
+DR481,Brenda Cohen,Orthopedic,19.102956,72.83307,12:00,13:00,30,10,MR3,Visit after 8 days
+DR482,William Bradley,Cardiologist,19.050839,72.829903,14:00,15:00,15,9,MR2,"Product brochure, Samples"
+DR483,Raymond Valenzuela,Cardiologist,19.119435,72.925669,10:00,12:00,20,3,MR1,Samples of new medicine requested
+DR484,Joshua Gonzales,Oncologist,19.125587,72.874191,11:00,13:00,20,2,MR2,Samples of new medicine requested
+DR485,Thomas Poole,Oncologist,19.059072,72.909001,15:00,17:00,30,5,MR1,"Product brochure, Samples, Feedback form"
+DR486,Cheryl Vargas,Dermatologist,19.045315,72.882141,15:00,16:00,20,9,MR1,"Feedback form, Survey kit"
+DR487,Troy Orr,Cardiologist,19.029045,72.891138,15:00,16:00,30,5,MR2,"Brochure, Digital device for demo"
+DR488,Juan Thomas,Neurologist,19.125686,72.829454,10:00,12:00,20,8,MR1,Appointment confirmation slip
+DR489,Michael Owens,Cardiologist,19.102399,72.904121,13:00,15:00,15,1,MR2,"Product brochure, Samples, Feedback form"
+DR490,Christopher Middleton,Oncologist,19.037502,72.914546,09:00,11:00,15,9,MR1,"Feedback form, Survey kit"
+DR491,Steven Roberts,Dermatologist,19.04904,72.85138,13:00,15:00,15,2,MR1,"Brochure, Digital device for demo"
+DR492,Isaac Reed,Neurologist,19.116877,72.839285,12:00,14:00,15,1,MR2,Appointment confirmation slip
+DR493,Jeffery Washington,Dermatologist,19.089236,72.904414,09:00,10:00,30,1,MR2,Samples of new medicine requested
+DR494,Rhonda Gibson,Dermatologist,19.081189,72.856316,15:00,17:00,30,1,MR1,"Product brochure, Samples"
+DR495,George Carroll,Pediatrician,19.036228,72.844221,14:00,15:00,15,3,MR2,"Product brochure, Samples"
+DR496,Andre Briggs,Cardiologist,19.04561,72.828302,09:00,10:00,30,5,MR3,Paracetamol is req
+DR497,Shawn Wilson,Dermatologist,19.123769,72.89306,15:00,17:00,15,5,MR2,Samples of new medicine requested
+DR498,Jeffrey Anderson,Pediatrician,19.125658,72.848282,10:00,12:00,15,7,MR3,Samples of new medicine requested
+DR499,Heather Suarez,Cardiologist,19.075266,72.912721,12:00,14:00,15,4,MR2,"Samples, Survey form"
+DR500,Raymond Smith,Dermatologist,19.028331,72.909331,13:00,15:00,30,3,MR2,"Samples, Survey form"

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 0,
+    "text": "Med-001 contains Aspirin 75mg. It is used for Pain relief. Precautions: Take after meals. MRP: ₹₹52. Manufacturer: Cipla."
+  },
+  {
+    "id": 1,
+    "text": "Med-002 contains Ibuprofen 400mg. It is used for Bacterial infection. Precautions: Avoid if allergic. MRP: ₹₹16. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 2,
+    "text": "Med-003 contains Paracetamol 650mg. It is used for Pain relief. Precautions: Consult doctor if pregnant. MRP: ₹₹72. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 3,
+    "text": "Med-004 contains Aspirin 75mg. It is used for Diabetes control. Precautions: Do not exceed dose. MRP: ₹₹77. Manufacturer: Glenmark."
+  },
+  {
+    "id": 4,
+    "text": "Med-005 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Avoid alcohol. MRP: ₹₹66. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 5,
+    "text": "Med-006 contains Aspirin 75mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹91. Manufacturer: Lupin."
+  },
+  {
+    "id": 6,
+    "text": "Med-007 contains Ibuprofen 400mg. It is used for Pain relief. Precautions: Avoid alcohol. MRP: ₹₹63. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 7,
+    "text": "Med-008 contains Paracetamol 650mg. It is used for Anti-inflammatory. Precautions: Take after meals. MRP: ₹₹27. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 8,
+    "text": "Med-009 contains Metformin 500mg. It is used for Pain relief. Precautions: Do not exceed dose. MRP: ₹₹10. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 9,
+    "text": "Med-010 contains Ibuprofen 400mg. It is used for Anti-inflammatory. Precautions: Avoid if allergic. MRP: ₹₹22. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 10,
+    "text": "Med-011 contains Ibuprofen 400mg. It is used for Pain relief. Precautions: Take after meals. MRP: ₹₹74. Manufacturer: Glenmark."
+  },
+  {
+    "id": 11,
+    "text": "Med-012 contains Amoxicillin 500mg. It is used for Cardiac care. Precautions: Consult doctor if pregnant. MRP: ₹₹139. Manufacturer: Lupin."
+  },
+  {
+    "id": 12,
+    "text": "Med-013 contains Paracetamol 650mg. It is used for Diabetes control. Precautions: Take after meals. MRP: ₹₹34. Manufacturer: Lupin."
+  },
+  {
+    "id": 13,
+    "text": "Med-014 contains Ciprofloxacin 250mg. It is used for Pain relief. Precautions: Take after meals. MRP: ₹₹116. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 14,
+    "text": "Med-015 contains Aspirin 75mg. It is used for Pain relief. Precautions: Avoid alcohol. MRP: ₹₹47. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 15,
+    "text": "Med-016 contains Aspirin 75mg. It is used for Bacterial infection. Precautions: Avoid alcohol. MRP: ₹₹91. Manufacturer: Cipla."
+  },
+  {
+    "id": 16,
+    "text": "Med-017 contains Metformin 500mg. It is used for Fever reduction. Precautions: Take after meals. MRP: ₹₹47. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 17,
+    "text": "Med-018 contains Paracetamol 650mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹146. Manufacturer: Glenmark."
+  },
+  {
+    "id": 18,
+    "text": "Med-019 contains Metformin 500mg. It is used for Cardiac care. Precautions: Do not exceed dose. MRP: ₹₹16. Manufacturer: Cipla."
+  },
+  {
+    "id": 19,
+    "text": "Med-020 contains Ibuprofen 400mg. It is used for Pain relief. Precautions: Take after meals. MRP: ₹₹49. Manufacturer: Cipla."
+  },
+  {
+    "id": 20,
+    "text": "Med-021 contains Ciprofloxacin 250mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹108. Manufacturer: Glenmark."
+  },
+  {
+    "id": 21,
+    "text": "Med-022 contains Amoxicillin 500mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹129. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 22,
+    "text": "Med-023 contains Aspirin 75mg. It is used for Anti-inflammatory. Precautions: Take after meals. MRP: ₹₹57. Manufacturer: Cipla."
+  },
+  {
+    "id": 23,
+    "text": "Med-024 contains Aspirin 75mg. It is used for Anti-inflammatory. Precautions: Not for children. MRP: ₹₹119. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 24,
+    "text": "Med-025 contains Ciprofloxacin 250mg. It is used for Anti-inflammatory. Precautions: Do not exceed dose. MRP: ₹₹129. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 25,
+    "text": "Med-026 contains Ciprofloxacin 250mg. It is used for Diabetes control. Precautions: Not for children. MRP: ₹₹12. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 26,
+    "text": "Med-027 contains Metformin 500mg. It is used for Pain relief. Precautions: Take after meals. MRP: ₹₹144. Manufacturer: Cipla."
+  },
+  {
+    "id": 27,
+    "text": "Med-028 contains Ibuprofen 400mg. It is used for Cardiac care. Precautions: Not for children. MRP: ₹₹87. Manufacturer: Lupin."
+  },
+  {
+    "id": 28,
+    "text": "Med-029 contains Aspirin 75mg. It is used for Cardiac care. Precautions: Not for children. MRP: ₹₹130. Manufacturer: Cipla."
+  },
+  {
+    "id": 29,
+    "text": "Med-030 contains Aspirin 75mg. It is used for Bacterial infection. Precautions: Avoid alcohol. MRP: ₹₹100. Manufacturer: Glenmark."
+  },
+  {
+    "id": 30,
+    "text": "Med-031 contains Ciprofloxacin 250mg. It is used for Fever reduction. Precautions: Do not exceed dose. MRP: ₹₹63. Manufacturer: Cipla."
+  },
+  {
+    "id": 31,
+    "text": "Med-032 contains Metformin 500mg. It is used for Bacterial infection. Precautions: Take after meals. MRP: ₹₹39. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 32,
+    "text": "Med-033 contains Ibuprofen 400mg. It is used for Fever reduction. Precautions: Take after meals. MRP: ₹₹123. Manufacturer: Cipla."
+  },
+  {
+    "id": 33,
+    "text": "Med-034 contains Paracetamol 650mg. It is used for Anti-inflammatory. Precautions: Avoid if allergic. MRP: ₹₹28. Manufacturer: Cipla."
+  },
+  {
+    "id": 34,
+    "text": "Med-035 contains Ibuprofen 400mg. It is used for Cardiac care. Precautions: Consult doctor if pregnant. MRP: ₹₹133. Manufacturer: Glenmark."
+  },
+  {
+    "id": 35,
+    "text": "Med-036 contains Aspirin 75mg. It is used for Cardiac care. Precautions: Avoid if allergic. MRP: ₹₹60. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 36,
+    "text": "Med-037 contains Ciprofloxacin 250mg. It is used for Bacterial infection. Precautions: Not for children. MRP: ₹₹137. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 37,
+    "text": "Med-038 contains Ibuprofen 400mg. It is used for Cardiac care. Precautions: Do not exceed dose. MRP: ₹₹83. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 38,
+    "text": "Med-039 contains Metformin 500mg. It is used for Fever reduction. Precautions: Avoid if allergic. MRP: ₹₹121. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 39,
+    "text": "Med-040 contains Paracetamol 650mg. It is used for Pain relief. Precautions: Do not exceed dose. MRP: ₹₹101. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 40,
+    "text": "Med-041 contains Amoxicillin 500mg. It is used for Fever reduction. Precautions: Consult doctor if pregnant. MRP: ₹₹33. Manufacturer: Cipla."
+  },
+  {
+    "id": 41,
+    "text": "Med-042 contains Ibuprofen 400mg. It is used for Cardiac care. Precautions: Consult doctor if pregnant. MRP: ₹₹86. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 42,
+    "text": "Med-043 contains Ibuprofen 400mg. It is used for Fever reduction. Precautions: Consult doctor if pregnant. MRP: ₹₹92. Manufacturer: Glenmark."
+  },
+  {
+    "id": 43,
+    "text": "Med-044 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Consult doctor if pregnant. MRP: ₹₹85. Manufacturer: Cipla."
+  },
+  {
+    "id": 44,
+    "text": "Med-045 contains Ibuprofen 400mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹127. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 45,
+    "text": "Med-046 contains Amoxicillin 500mg. It is used for Diabetes control. Precautions: Avoid if allergic. MRP: ₹₹27. Manufacturer: Cipla."
+  },
+  {
+    "id": 46,
+    "text": "Med-047 contains Amoxicillin 500mg. It is used for Diabetes control. Precautions: Not for children. MRP: ₹₹76. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 47,
+    "text": "Med-048 contains Ciprofloxacin 250mg. It is used for Pain relief. Precautions: Take after meals. MRP: ₹₹118. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 48,
+    "text": "Med-049 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Consult doctor if pregnant. MRP: ₹₹22. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 49,
+    "text": "Med-050 contains Paracetamol 650mg. It is used for Diabetes control. Precautions: Avoid alcohol. MRP: ₹₹138. Manufacturer: Cipla."
+  },
+  {
+    "id": 50,
+    "text": "Med-051 contains Paracetamol 650mg. It is used for Fever reduction. Precautions: Do not exceed dose. MRP: ₹₹52. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 51,
+    "text": "Med-052 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Not for children. MRP: ₹₹88. Manufacturer: Glenmark."
+  },
+  {
+    "id": 52,
+    "text": "Med-053 contains Metformin 500mg. It is used for Cardiac care. Precautions: Consult doctor if pregnant. MRP: ₹₹53. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 53,
+    "text": "Med-054 contains Ibuprofen 400mg. It is used for Diabetes control. Precautions: Avoid alcohol. MRP: ₹₹37. Manufacturer: Lupin."
+  },
+  {
+    "id": 54,
+    "text": "Med-055 contains Ciprofloxacin 250mg. It is used for Diabetes control. Precautions: Take after meals. MRP: ₹₹83. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 55,
+    "text": "Med-056 contains Paracetamol 650mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹50. Manufacturer: Cipla."
+  },
+  {
+    "id": 56,
+    "text": "Med-057 contains Ciprofloxacin 250mg. It is used for Pain relief. Precautions: Take after meals. MRP: ₹₹95. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 57,
+    "text": "Med-058 contains Ciprofloxacin 250mg. It is used for Fever reduction. Precautions: Not for children. MRP: ₹₹40. Manufacturer: Lupin."
+  },
+  {
+    "id": 58,
+    "text": "Med-059 contains Ciprofloxacin 250mg. It is used for Fever reduction. Precautions: Not for children. MRP: ₹₹127. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 59,
+    "text": "Med-060 contains Ibuprofen 400mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹19. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 60,
+    "text": "Med-061 contains Ibuprofen 400mg. It is used for Diabetes control. Precautions: Do not exceed dose. MRP: ₹₹125. Manufacturer: Cipla."
+  },
+  {
+    "id": 61,
+    "text": "Med-062 contains Metformin 500mg. It is used for Cardiac care. Precautions: Not for children. MRP: ₹₹92. Manufacturer: Lupin."
+  },
+  {
+    "id": 62,
+    "text": "Med-063 contains Ciprofloxacin 250mg. It is used for Anti-inflammatory. Precautions: Take after meals. MRP: ₹₹90. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 63,
+    "text": "Med-064 contains Ciprofloxacin 250mg. It is used for Fever reduction. Precautions: Consult doctor if pregnant. MRP: ₹₹119. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 64,
+    "text": "Med-065 contains Ciprofloxacin 250mg. It is used for Diabetes control. Precautions: Avoid alcohol. MRP: ₹₹148. Manufacturer: Lupin."
+  },
+  {
+    "id": 65,
+    "text": "Med-066 contains Amoxicillin 500mg. It is used for Fever reduction. Precautions: Avoid if allergic. MRP: ₹₹123. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 66,
+    "text": "Med-067 contains Amoxicillin 500mg. It is used for Bacterial infection. Precautions: Consult doctor if pregnant. MRP: ₹₹104. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 67,
+    "text": "Med-068 contains Paracetamol 650mg. It is used for Fever reduction. Precautions: Avoid if allergic. MRP: ₹₹101. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 68,
+    "text": "Med-069 contains Ibuprofen 400mg. It is used for Diabetes control. Precautions: Consult doctor if pregnant. MRP: ₹₹45. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 69,
+    "text": "Med-070 contains Aspirin 75mg. It is used for Anti-inflammatory. Precautions: Do not exceed dose. MRP: ₹₹90. Manufacturer: Glenmark."
+  },
+  {
+    "id": 70,
+    "text": "Med-071 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Not for children. MRP: ₹₹38. Manufacturer: Lupin."
+  },
+  {
+    "id": 71,
+    "text": "Med-072 contains Ciprofloxacin 250mg. It is used for Diabetes control. Precautions: Avoid alcohol. MRP: ₹₹45. Manufacturer: Glenmark."
+  },
+  {
+    "id": 72,
+    "text": "Med-073 contains Metformin 500mg. It is used for Cardiac care. Precautions: Take after meals. MRP: ₹₹150. Manufacturer: Lupin."
+  },
+  {
+    "id": 73,
+    "text": "Med-074 contains Amoxicillin 500mg. It is used for Anti-inflammatory. Precautions: Not for children. MRP: ₹₹26. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 74,
+    "text": "Med-075 contains Ciprofloxacin 250mg. It is used for Diabetes control. Precautions: Take after meals. MRP: ₹₹22. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 75,
+    "text": "Med-076 contains Ciprofloxacin 250mg. It is used for Anti-inflammatory. Precautions: Avoid if allergic. MRP: ₹₹123. Manufacturer: Glenmark."
+  },
+  {
+    "id": 76,
+    "text": "Med-077 contains Amoxicillin 500mg. It is used for Anti-inflammatory. Precautions: Take after meals. MRP: ₹₹126. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 77,
+    "text": "Med-078 contains Ciprofloxacin 250mg. It is used for Diabetes control. Precautions: Not for children. MRP: ₹₹86. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 78,
+    "text": "Med-079 contains Amoxicillin 500mg. It is used for Cardiac care. Precautions: Consult doctor if pregnant. MRP: ₹₹75. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 79,
+    "text": "Med-080 contains Ciprofloxacin 250mg. It is used for Diabetes control. Precautions: Consult doctor if pregnant. MRP: ₹₹26. Manufacturer: Cipla."
+  },
+  {
+    "id": 80,
+    "text": "Med-081 contains Ciprofloxacin 250mg. It is used for Cardiac care. Precautions: Avoid alcohol. MRP: ₹₹143. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 81,
+    "text": "Med-082 contains Aspirin 75mg. It is used for Diabetes control. Precautions: Take after meals. MRP: ₹₹101. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 82,
+    "text": "Med-083 contains Paracetamol 650mg. It is used for Pain relief. Precautions: Avoid alcohol. MRP: ₹₹71. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 83,
+    "text": "Med-084 contains Paracetamol 650mg. It is used for Anti-inflammatory. Precautions: Take after meals. MRP: ₹₹90. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 84,
+    "text": "Med-085 contains Ibuprofen 400mg. It is used for Pain relief. Precautions: Take after meals. MRP: ₹₹53. Manufacturer: Cipla."
+  },
+  {
+    "id": 85,
+    "text": "Med-086 contains Ciprofloxacin 250mg. It is used for Cardiac care. Precautions: Do not exceed dose. MRP: ₹₹99. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 86,
+    "text": "Med-087 contains Amoxicillin 500mg. It is used for Fever reduction. Precautions: Do not exceed dose. MRP: ₹₹128. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 87,
+    "text": "Med-088 contains Paracetamol 650mg. It is used for Diabetes control. Precautions: Not for children. MRP: ₹₹105. Manufacturer: Cipla."
+  },
+  {
+    "id": 88,
+    "text": "Med-089 contains Metformin 500mg. It is used for Pain relief. Precautions: Do not exceed dose. MRP: ₹₹60. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 89,
+    "text": "Med-090 contains Paracetamol 650mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹143. Manufacturer: Glenmark."
+  },
+  {
+    "id": 90,
+    "text": "Med-091 contains Aspirin 75mg. It is used for Cardiac care. Precautions: Not for children. MRP: ₹₹119. Manufacturer: Glenmark."
+  },
+  {
+    "id": 91,
+    "text": "Med-092 contains Paracetamol 650mg. It is used for Pain relief. Precautions: Not for children. MRP: ₹₹84. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 92,
+    "text": "Med-093 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Not for children. MRP: ₹₹130. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 93,
+    "text": "Med-094 contains Paracetamol 650mg. It is used for Diabetes control. Precautions: Consult doctor if pregnant. MRP: ₹₹142. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 94,
+    "text": "Med-095 contains Aspirin 75mg. It is used for Anti-inflammatory. Precautions: Consult doctor if pregnant. MRP: ₹₹51. Manufacturer: Lupin."
+  },
+  {
+    "id": 95,
+    "text": "Med-096 contains Paracetamol 650mg. It is used for Bacterial infection. Precautions: Not for children. MRP: ₹₹132. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 96,
+    "text": "Med-097 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Not for children. MRP: ₹₹68. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 97,
+    "text": "Med-098 contains Metformin 500mg. It is used for Cardiac care. Precautions: Take after meals. MRP: ₹₹68. Manufacturer: Cipla."
+  },
+  {
+    "id": 98,
+    "text": "Med-099 contains Ciprofloxacin 250mg. It is used for Diabetes control. Precautions: Consult doctor if pregnant. MRP: ₹₹141. Manufacturer: Lupin."
+  },
+  {
+    "id": 99,
+    "text": "Med-100 contains Ibuprofen 400mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹14. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 100,
+    "text": "Med-101 contains Aspirin 75mg. It is used for Bacterial infection. Precautions: Consult doctor if pregnant. MRP: ₹₹68. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 101,
+    "text": "Med-102 contains Ciprofloxacin 250mg. It is used for Pain relief. Precautions: Consult doctor if pregnant. MRP: ₹₹95. Manufacturer: Lupin."
+  },
+  {
+    "id": 102,
+    "text": "Med-103 contains Amoxicillin 500mg. It is used for Anti-inflammatory. Precautions: Avoid alcohol. MRP: ₹₹103. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 103,
+    "text": "Med-104 contains Ibuprofen 400mg. It is used for Anti-inflammatory. Precautions: Consult doctor if pregnant. MRP: ₹₹106. Manufacturer: Glenmark."
+  },
+  {
+    "id": 104,
+    "text": "Med-105 contains Ciprofloxacin 250mg. It is used for Pain relief. Precautions: Avoid if allergic. MRP: ₹₹139. Manufacturer: Cipla."
+  },
+  {
+    "id": 105,
+    "text": "Med-106 contains Paracetamol 650mg. It is used for Bacterial infection. Precautions: Consult doctor if pregnant. MRP: ₹₹64. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 106,
+    "text": "Med-107 contains Metformin 500mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹113. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 107,
+    "text": "Med-108 contains Ibuprofen 400mg. It is used for Diabetes control. Precautions: Consult doctor if pregnant. MRP: ₹₹49. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 108,
+    "text": "Med-109 contains Ciprofloxacin 250mg. It is used for Diabetes control. Precautions: Take after meals. MRP: ₹₹91. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 109,
+    "text": "Med-110 contains Paracetamol 650mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹65. Manufacturer: Cipla."
+  },
+  {
+    "id": 110,
+    "text": "Med-111 contains Amoxicillin 500mg. It is used for Cardiac care. Precautions: Do not exceed dose. MRP: ₹₹53. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 111,
+    "text": "Med-112 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Do not exceed dose. MRP: ₹₹31. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 112,
+    "text": "Med-113 contains Amoxicillin 500mg. It is used for Bacterial infection. Precautions: Consult doctor if pregnant. MRP: ₹₹137. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 113,
+    "text": "Med-114 contains Paracetamol 650mg. It is used for Diabetes control. Precautions: Do not exceed dose. MRP: ₹₹129. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 114,
+    "text": "Med-115 contains Ciprofloxacin 250mg. It is used for Bacterial infection. Precautions: Not for children. MRP: ₹₹37. Manufacturer: Cipla."
+  },
+  {
+    "id": 115,
+    "text": "Med-116 contains Ibuprofen 400mg. It is used for Diabetes control. Precautions: Avoid if allergic. MRP: ₹₹148. Manufacturer: Cipla."
+  },
+  {
+    "id": 116,
+    "text": "Med-117 contains Paracetamol 650mg. It is used for Pain relief. Precautions: Avoid if allergic. MRP: ₹₹70. Manufacturer: Cipla."
+  },
+  {
+    "id": 117,
+    "text": "Med-118 contains Metformin 500mg. It is used for Pain relief. Precautions: Do not exceed dose. MRP: ₹₹106. Manufacturer: Cipla."
+  },
+  {
+    "id": 118,
+    "text": "Med-119 contains Aspirin 75mg. It is used for Diabetes control. Precautions: Take after meals. MRP: ₹₹102. Manufacturer: Cipla."
+  },
+  {
+    "id": 119,
+    "text": "Med-120 contains Paracetamol 650mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹73. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 120,
+    "text": "Med-121 contains Paracetamol 650mg. It is used for Pain relief. Precautions: Avoid alcohol. MRP: ₹₹22. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 121,
+    "text": "Med-122 contains Ibuprofen 400mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹71. Manufacturer: Lupin."
+  },
+  {
+    "id": 122,
+    "text": "Med-123 contains Aspirin 75mg. It is used for Anti-inflammatory. Precautions: Take after meals. MRP: ₹₹117. Manufacturer: Lupin."
+  },
+  {
+    "id": 123,
+    "text": "Med-124 contains Aspirin 75mg. It is used for Anti-inflammatory. Precautions: Not for children. MRP: ₹₹58. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 124,
+    "text": "Med-125 contains Paracetamol 650mg. It is used for Bacterial infection. Precautions: Take after meals. MRP: ₹₹45. Manufacturer: Cipla."
+  },
+  {
+    "id": 125,
+    "text": "Med-126 contains Metformin 500mg. It is used for Bacterial infection. Precautions: Not for children. MRP: ₹₹43. Manufacturer: Lupin."
+  },
+  {
+    "id": 126,
+    "text": "Med-127 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Not for children. MRP: ₹₹143. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 127,
+    "text": "Med-128 contains Ciprofloxacin 250mg. It is used for Fever reduction. Precautions: Take after meals. MRP: ₹₹29. Manufacturer: Glenmark."
+  },
+  {
+    "id": 128,
+    "text": "Med-129 contains Aspirin 75mg. It is used for Bacterial infection. Precautions: Take after meals. MRP: ₹₹144. Manufacturer: Cipla."
+  },
+  {
+    "id": 129,
+    "text": "Med-130 contains Metformin 500mg. It is used for Pain relief. Precautions: Take after meals. MRP: ₹₹36. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 130,
+    "text": "Med-131 contains Metformin 500mg. It is used for Fever reduction. Precautions: Do not exceed dose. MRP: ₹₹141. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 131,
+    "text": "Med-132 contains Ibuprofen 400mg. It is used for Fever reduction. Precautions: Avoid if allergic. MRP: ₹₹95. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 132,
+    "text": "Med-133 contains Ciprofloxacin 250mg. It is used for Bacterial infection. Precautions: Avoid alcohol. MRP: ₹₹106. Manufacturer: Cipla."
+  },
+  {
+    "id": 133,
+    "text": "Med-134 contains Ibuprofen 400mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹21. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 134,
+    "text": "Med-135 contains Ibuprofen 400mg. It is used for Cardiac care. Precautions: Take after meals. MRP: ₹₹92. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 135,
+    "text": "Med-136 contains Aspirin 75mg. It is used for Fever reduction. Precautions: Not for children. MRP: ₹₹68. Manufacturer: Cipla."
+  },
+  {
+    "id": 136,
+    "text": "Med-137 contains Amoxicillin 500mg. It is used for Cardiac care. Precautions: Avoid alcohol. MRP: ₹₹123. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 137,
+    "text": "Med-138 contains Aspirin 75mg. It is used for Bacterial infection. Precautions: Consult doctor if pregnant. MRP: ₹₹144. Manufacturer: Lupin."
+  },
+  {
+    "id": 138,
+    "text": "Med-139 contains Aspirin 75mg. It is used for Anti-inflammatory. Precautions: Do not exceed dose. MRP: ₹₹100. Manufacturer: Lupin."
+  },
+  {
+    "id": 139,
+    "text": "Med-140 contains Amoxicillin 500mg. It is used for Cardiac care. Precautions: Do not exceed dose. MRP: ₹₹120. Manufacturer: Lupin."
+  },
+  {
+    "id": 140,
+    "text": "Med-141 contains Aspirin 75mg. It is used for Anti-inflammatory. Precautions: Avoid if allergic. MRP: ₹₹117. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 141,
+    "text": "Med-142 contains Metformin 500mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹131. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 142,
+    "text": "Med-143 contains Paracetamol 650mg. It is used for Diabetes control. Precautions: Do not exceed dose. MRP: ₹₹147. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 143,
+    "text": "Med-144 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Not for children. MRP: ₹₹25. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 144,
+    "text": "Med-145 contains Ciprofloxacin 250mg. It is used for Bacterial infection. Precautions: Avoid alcohol. MRP: ₹₹40. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 145,
+    "text": "Med-146 contains Metformin 500mg. It is used for Bacterial infection. Precautions: Avoid alcohol. MRP: ₹₹39. Manufacturer: Lupin."
+  },
+  {
+    "id": 146,
+    "text": "Med-147 contains Ibuprofen 400mg. It is used for Anti-inflammatory. Precautions: Avoid if allergic. MRP: ₹₹123. Manufacturer: Lupin."
+  },
+  {
+    "id": 147,
+    "text": "Med-148 contains Ibuprofen 400mg. It is used for Diabetes control. Precautions: Consult doctor if pregnant. MRP: ₹₹126. Manufacturer: Glenmark."
+  },
+  {
+    "id": 148,
+    "text": "Med-149 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Avoid alcohol. MRP: ₹₹122. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 149,
+    "text": "Med-150 contains Ciprofloxacin 250mg. It is used for Anti-inflammatory. Precautions: Take after meals. MRP: ₹₹50. Manufacturer: Glenmark."
+  },
+  {
+    "id": 150,
+    "text": "Med-151 contains Ciprofloxacin 250mg. It is used for Fever reduction. Precautions: Avoid if allergic. MRP: ₹₹25. Manufacturer: Glenmark."
+  },
+  {
+    "id": 151,
+    "text": "Med-152 contains Amoxicillin 500mg. It is used for Cardiac care. Precautions: Avoid alcohol. MRP: ₹₹34. Manufacturer: Glenmark."
+  },
+  {
+    "id": 152,
+    "text": "Med-153 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Consult doctor if pregnant. MRP: ₹₹149. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 153,
+    "text": "Med-154 contains Amoxicillin 500mg. It is used for Fever reduction. Precautions: Avoid if allergic. MRP: ₹₹127. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 154,
+    "text": "Med-155 contains Aspirin 75mg. It is used for Pain relief. Precautions: Do not exceed dose. MRP: ₹₹90. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 155,
+    "text": "Med-156 contains Ibuprofen 400mg. It is used for Anti-inflammatory. Precautions: Avoid if allergic. MRP: ₹₹69. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 156,
+    "text": "Med-157 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Avoid alcohol. MRP: ₹₹48. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 157,
+    "text": "Med-158 contains Ibuprofen 400mg. It is used for Cardiac care. Precautions: Do not exceed dose. MRP: ₹₹21. Manufacturer: Cipla."
+  },
+  {
+    "id": 158,
+    "text": "Med-159 contains Amoxicillin 500mg. It is used for Fever reduction. Precautions: Not for children. MRP: ₹₹129. Manufacturer: Glenmark."
+  },
+  {
+    "id": 159,
+    "text": "Med-160 contains Metformin 500mg. It is used for Cardiac care. Precautions: Avoid if allergic. MRP: ₹₹69. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 160,
+    "text": "Med-161 contains Metformin 500mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹110. Manufacturer: Glenmark."
+  },
+  {
+    "id": 161,
+    "text": "Med-162 contains Aspirin 75mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹11. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 162,
+    "text": "Med-163 contains Paracetamol 650mg. It is used for Fever reduction. Precautions: Do not exceed dose. MRP: ₹₹103. Manufacturer: Cipla."
+  },
+  {
+    "id": 163,
+    "text": "Med-164 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Do not exceed dose. MRP: ₹₹78. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 164,
+    "text": "Med-165 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Avoid alcohol. MRP: ₹₹72. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 165,
+    "text": "Med-166 contains Paracetamol 650mg. It is used for Pain relief. Precautions: Avoid alcohol. MRP: ₹₹145. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 166,
+    "text": "Med-167 contains Metformin 500mg. It is used for Diabetes control. Precautions: Avoid if allergic. MRP: ₹₹88. Manufacturer: Cipla."
+  },
+  {
+    "id": 167,
+    "text": "Med-168 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Take after meals. MRP: ₹₹80. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 168,
+    "text": "Med-169 contains Ciprofloxacin 250mg. It is used for Bacterial infection. Precautions: Take after meals. MRP: ₹₹38. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 169,
+    "text": "Med-170 contains Metformin 500mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹120. Manufacturer: Glenmark."
+  },
+  {
+    "id": 170,
+    "text": "Med-171 contains Aspirin 75mg. It is used for Anti-inflammatory. Precautions: Avoid alcohol. MRP: ₹₹99. Manufacturer: Glenmark."
+  },
+  {
+    "id": 171,
+    "text": "Med-172 contains Amoxicillin 500mg. It is used for Cardiac care. Precautions: Do not exceed dose. MRP: ₹₹103. Manufacturer: Cipla."
+  },
+  {
+    "id": 172,
+    "text": "Med-173 contains Amoxicillin 500mg. It is used for Cardiac care. Precautions: Take after meals. MRP: ₹₹67. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 173,
+    "text": "Med-174 contains Ciprofloxacin 250mg. It is used for Bacterial infection. Precautions: Take after meals. MRP: ₹₹35. Manufacturer: Cipla."
+  },
+  {
+    "id": 174,
+    "text": "Med-175 contains Ciprofloxacin 250mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹51. Manufacturer: Cipla."
+  },
+  {
+    "id": 175,
+    "text": "Med-176 contains Metformin 500mg. It is used for Fever reduction. Precautions: Do not exceed dose. MRP: ₹₹143. Manufacturer: Glenmark."
+  },
+  {
+    "id": 176,
+    "text": "Med-177 contains Aspirin 75mg. It is used for Diabetes control. Precautions: Not for children. MRP: ₹₹127. Manufacturer: Cipla."
+  },
+  {
+    "id": 177,
+    "text": "Med-178 contains Ibuprofen 400mg. It is used for Diabetes control. Precautions: Take after meals. MRP: ₹₹99. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 178,
+    "text": "Med-179 contains Aspirin 75mg. It is used for Pain relief. Precautions: Avoid alcohol. MRP: ₹₹23. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 179,
+    "text": "Med-180 contains Ibuprofen 400mg. It is used for Fever reduction. Precautions: Consult doctor if pregnant. MRP: ₹₹109. Manufacturer: Glenmark."
+  },
+  {
+    "id": 180,
+    "text": "Med-181 contains Ibuprofen 400mg. It is used for Cardiac care. Precautions: Do not exceed dose. MRP: ₹₹45. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 181,
+    "text": "Med-182 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Consult doctor if pregnant. MRP: ₹₹38. Manufacturer: Lupin."
+  },
+  {
+    "id": 182,
+    "text": "Med-183 contains Ibuprofen 400mg. It is used for Fever reduction. Precautions: Consult doctor if pregnant. MRP: ₹₹140. Manufacturer: Cipla."
+  },
+  {
+    "id": 183,
+    "text": "Med-184 contains Aspirin 75mg. It is used for Cardiac care. Precautions: Do not exceed dose. MRP: ₹₹19. Manufacturer: Glenmark."
+  },
+  {
+    "id": 184,
+    "text": "Med-185 contains Ibuprofen 400mg. It is used for Anti-inflammatory. Precautions: Avoid alcohol. MRP: ₹₹68. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 185,
+    "text": "Med-186 contains Aspirin 75mg. It is used for Bacterial infection. Precautions: Not for children. MRP: ₹₹140. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 186,
+    "text": "Med-187 contains Ciprofloxacin 250mg. It is used for Cardiac care. Precautions: Avoid alcohol. MRP: ₹₹42. Manufacturer: Cipla."
+  },
+  {
+    "id": 187,
+    "text": "Med-188 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Do not exceed dose. MRP: ₹₹111. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 188,
+    "text": "Med-189 contains Aspirin 75mg. It is used for Fever reduction. Precautions: Not for children. MRP: ₹₹89. Manufacturer: Glenmark."
+  },
+  {
+    "id": 189,
+    "text": "Med-190 contains Paracetamol 650mg. It is used for Bacterial infection. Precautions: Consult doctor if pregnant. MRP: ₹₹145. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 190,
+    "text": "Med-191 contains Paracetamol 650mg. It is used for Anti-inflammatory. Precautions: Consult doctor if pregnant. MRP: ₹₹76. Manufacturer: Glenmark."
+  },
+  {
+    "id": 191,
+    "text": "Med-192 contains Amoxicillin 500mg. It is used for Diabetes control. Precautions: Take after meals. MRP: ₹₹30. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 192,
+    "text": "Med-193 contains Paracetamol 650mg. It is used for Diabetes control. Precautions: Consult doctor if pregnant. MRP: ₹₹77. Manufacturer: Lupin."
+  },
+  {
+    "id": 193,
+    "text": "Med-194 contains Paracetamol 650mg. It is used for Bacterial infection. Precautions: Avoid alcohol. MRP: ₹₹77. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 194,
+    "text": "Med-195 contains Ciprofloxacin 250mg. It is used for Fever reduction. Precautions: Not for children. MRP: ₹₹95. Manufacturer: Lupin."
+  },
+  {
+    "id": 195,
+    "text": "Med-196 contains Ibuprofen 400mg. It is used for Anti-inflammatory. Precautions: Not for children. MRP: ₹₹134. Manufacturer: Cipla."
+  },
+  {
+    "id": 196,
+    "text": "Med-197 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Avoid if allergic. MRP: ₹₹123. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 197,
+    "text": "Med-198 contains Ciprofloxacin 250mg. It is used for Anti-inflammatory. Precautions: Take after meals. MRP: ₹₹54. Manufacturer: Lupin."
+  },
+  {
+    "id": 198,
+    "text": "Med-199 contains Paracetamol 650mg. It is used for Pain relief. Precautions: Avoid if allergic. MRP: ₹₹12. Manufacturer: Lupin."
+  },
+  {
+    "id": 199,
+    "text": "Med-200 contains Paracetamol 650mg. It is used for Anti-inflammatory. Precautions: Avoid alcohol. MRP: ₹₹109. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 200,
+    "text": "Med-201 contains Metformin 500mg. It is used for Cardiac care. Precautions: Avoid alcohol. MRP: ₹₹71. Manufacturer: Cipla."
+  },
+  {
+    "id": 201,
+    "text": "Med-202 contains Ciprofloxacin 250mg. It is used for Diabetes control. Precautions: Avoid if allergic. MRP: ₹₹109. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 202,
+    "text": "Med-203 contains Amoxicillin 500mg. It is used for Anti-inflammatory. Precautions: Take after meals. MRP: ₹₹68. Manufacturer: Glenmark."
+  },
+  {
+    "id": 203,
+    "text": "Med-204 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Avoid if allergic. MRP: ₹₹127. Manufacturer: Cipla."
+  },
+  {
+    "id": 204,
+    "text": "Med-205 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Consult doctor if pregnant. MRP: ₹₹91. Manufacturer: Cipla."
+  },
+  {
+    "id": 205,
+    "text": "Med-206 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Avoid alcohol. MRP: ₹₹29. Manufacturer: Cipla."
+  },
+  {
+    "id": 206,
+    "text": "Med-207 contains Paracetamol 650mg. It is used for Diabetes control. Precautions: Do not exceed dose. MRP: ₹₹36. Manufacturer: Lupin."
+  },
+  {
+    "id": 207,
+    "text": "Med-208 contains Paracetamol 650mg. It is used for Fever reduction. Precautions: Avoid if allergic. MRP: ₹₹28. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 208,
+    "text": "Med-209 contains Metformin 500mg. It is used for Bacterial infection. Precautions: Consult doctor if pregnant. MRP: ₹₹81. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 209,
+    "text": "Med-210 contains Amoxicillin 500mg. It is used for Bacterial infection. Precautions: Avoid alcohol. MRP: ₹₹55. Manufacturer: Glenmark."
+  },
+  {
+    "id": 210,
+    "text": "Med-211 contains Ibuprofen 400mg. It is used for Fever reduction. Precautions: Take after meals. MRP: ₹₹129. Manufacturer: Cipla."
+  },
+  {
+    "id": 211,
+    "text": "Med-212 contains Metformin 500mg. It is used for Fever reduction. Precautions: Consult doctor if pregnant. MRP: ₹₹88. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 212,
+    "text": "Med-213 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Consult doctor if pregnant. MRP: ₹₹91. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 213,
+    "text": "Med-214 contains Amoxicillin 500mg. It is used for Cardiac care. Precautions: Consult doctor if pregnant. MRP: ₹₹63. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 214,
+    "text": "Med-215 contains Ibuprofen 400mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹70. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 215,
+    "text": "Med-216 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Do not exceed dose. MRP: ₹₹107. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 216,
+    "text": "Med-217 contains Aspirin 75mg. It is used for Pain relief. Precautions: Avoid if allergic. MRP: ₹₹134. Manufacturer: Lupin."
+  },
+  {
+    "id": 217,
+    "text": "Med-218 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Take after meals. MRP: ₹₹64. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 218,
+    "text": "Med-219 contains Ibuprofen 400mg. It is used for Bacterial infection. Precautions: Avoid if allergic. MRP: ₹₹22. Manufacturer: Glenmark."
+  },
+  {
+    "id": 219,
+    "text": "Med-220 contains Paracetamol 650mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹22. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 220,
+    "text": "Med-221 contains Amoxicillin 500mg. It is used for Diabetes control. Precautions: Avoid if allergic. MRP: ₹₹34. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 221,
+    "text": "Med-222 contains Paracetamol 650mg. It is used for Diabetes control. Precautions: Avoid alcohol. MRP: ₹₹139. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 222,
+    "text": "Med-223 contains Aspirin 75mg. It is used for Cardiac care. Precautions: Do not exceed dose. MRP: ₹₹16. Manufacturer: Lupin."
+  },
+  {
+    "id": 223,
+    "text": "Med-224 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Consult doctor if pregnant. MRP: ₹₹106. Manufacturer: Cipla."
+  },
+  {
+    "id": 224,
+    "text": "Med-225 contains Ciprofloxacin 250mg. It is used for Bacterial infection. Precautions: Take after meals. MRP: ₹₹11. Manufacturer: Glenmark."
+  },
+  {
+    "id": 225,
+    "text": "Med-226 contains Paracetamol 650mg. It is used for Pain relief. Precautions: Avoid alcohol. MRP: ₹₹63. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 226,
+    "text": "Med-227 contains Metformin 500mg. It is used for Pain relief. Precautions: Not for children. MRP: ₹₹134. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 227,
+    "text": "Med-228 contains Ibuprofen 400mg. It is used for Bacterial infection. Precautions: Avoid alcohol. MRP: ₹₹104. Manufacturer: Lupin."
+  },
+  {
+    "id": 228,
+    "text": "Med-229 contains Aspirin 75mg. It is used for Diabetes control. Precautions: Avoid if allergic. MRP: ₹₹38. Manufacturer: Glenmark."
+  },
+  {
+    "id": 229,
+    "text": "Med-230 contains Ibuprofen 400mg. It is used for Anti-inflammatory. Precautions: Avoid if allergic. MRP: ₹₹29. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 230,
+    "text": "Med-231 contains Paracetamol 650mg. It is used for Pain relief. Precautions: Consult doctor if pregnant. MRP: ₹₹34. Manufacturer: Glenmark."
+  },
+  {
+    "id": 231,
+    "text": "Med-232 contains Amoxicillin 500mg. It is used for Diabetes control. Precautions: Do not exceed dose. MRP: ₹₹125. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 232,
+    "text": "Med-233 contains Ciprofloxacin 250mg. It is used for Pain relief. Precautions: Avoid alcohol. MRP: ₹₹125. Manufacturer: Lupin."
+  },
+  {
+    "id": 233,
+    "text": "Med-234 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Not for children. MRP: ₹₹148. Manufacturer: Cipla."
+  },
+  {
+    "id": 234,
+    "text": "Med-235 contains Amoxicillin 500mg. It is used for Fever reduction. Precautions: Consult doctor if pregnant. MRP: ₹₹95. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 235,
+    "text": "Med-236 contains Aspirin 75mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹16. Manufacturer: Glenmark."
+  },
+  {
+    "id": 236,
+    "text": "Med-237 contains Aspirin 75mg. It is used for Diabetes control. Precautions: Not for children. MRP: ₹₹132. Manufacturer: Glenmark."
+  },
+  {
+    "id": 237,
+    "text": "Med-238 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Do not exceed dose. MRP: ₹₹86. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 238,
+    "text": "Med-239 contains Ibuprofen 400mg. It is used for Diabetes control. Precautions: Do not exceed dose. MRP: ₹₹141. Manufacturer: Glenmark."
+  },
+  {
+    "id": 239,
+    "text": "Med-240 contains Aspirin 75mg. It is used for Diabetes control. Precautions: Do not exceed dose. MRP: ₹₹75. Manufacturer: Cipla."
+  },
+  {
+    "id": 240,
+    "text": "Med-241 contains Aspirin 75mg. It is used for Diabetes control. Precautions: Avoid if allergic. MRP: ₹₹57. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 241,
+    "text": "Med-242 contains Aspirin 75mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹66. Manufacturer: Cipla."
+  },
+  {
+    "id": 242,
+    "text": "Med-243 contains Ibuprofen 400mg. It is used for Pain relief. Precautions: Take after meals. MRP: ₹₹43. Manufacturer: Cipla."
+  },
+  {
+    "id": 243,
+    "text": "Med-244 contains Ciprofloxacin 250mg. It is used for Diabetes control. Precautions: Do not exceed dose. MRP: ₹₹90. Manufacturer: Cipla."
+  },
+  {
+    "id": 244,
+    "text": "Med-245 contains Ciprofloxacin 250mg. It is used for Cardiac care. Precautions: Not for children. MRP: ₹₹65. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 245,
+    "text": "Med-246 contains Metformin 500mg. It is used for Fever reduction. Precautions: Consult doctor if pregnant. MRP: ₹₹107. Manufacturer: Glenmark."
+  },
+  {
+    "id": 246,
+    "text": "Med-247 contains Aspirin 75mg. It is used for Anti-inflammatory. Precautions: Avoid if allergic. MRP: ₹₹59. Manufacturer: Lupin."
+  },
+  {
+    "id": 247,
+    "text": "Med-248 contains Paracetamol 650mg. It is used for Pain relief. Precautions: Do not exceed dose. MRP: ₹₹67. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 248,
+    "text": "Med-249 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Not for children. MRP: ₹₹149. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 249,
+    "text": "Med-250 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Avoid if allergic. MRP: ₹₹141. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 250,
+    "text": "Med-251 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Do not exceed dose. MRP: ₹₹72. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 251,
+    "text": "Med-252 contains Amoxicillin 500mg. It is used for Diabetes control. Precautions: Avoid if allergic. MRP: ₹₹75. Manufacturer: Glenmark."
+  },
+  {
+    "id": 252,
+    "text": "Med-253 contains Ibuprofen 400mg. It is used for Cardiac care. Precautions: Avoid if allergic. MRP: ₹₹21. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 253,
+    "text": "Med-254 contains Paracetamol 650mg. It is used for Diabetes control. Precautions: Not for children. MRP: ₹₹105. Manufacturer: Lupin."
+  },
+  {
+    "id": 254,
+    "text": "Med-255 contains Metformin 500mg. It is used for Bacterial infection. Precautions: Take after meals. MRP: ₹₹99. Manufacturer: Glenmark."
+  },
+  {
+    "id": 255,
+    "text": "Med-256 contains Aspirin 75mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹132. Manufacturer: Cipla."
+  },
+  {
+    "id": 256,
+    "text": "Med-257 contains Paracetamol 650mg. It is used for Fever reduction. Precautions: Do not exceed dose. MRP: ₹₹89. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 257,
+    "text": "Med-258 contains Ciprofloxacin 250mg. It is used for Fever reduction. Precautions: Do not exceed dose. MRP: ₹₹20. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 258,
+    "text": "Med-259 contains Aspirin 75mg. It is used for Pain relief. Precautions: Consult doctor if pregnant. MRP: ₹₹145. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 259,
+    "text": "Med-260 contains Paracetamol 650mg. It is used for Pain relief. Precautions: Avoid if allergic. MRP: ₹₹40. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 260,
+    "text": "Med-261 contains Metformin 500mg. It is used for Pain relief. Precautions: Not for children. MRP: ₹₹139. Manufacturer: Cipla."
+  },
+  {
+    "id": 261,
+    "text": "Med-262 contains Amoxicillin 500mg. It is used for Diabetes control. Precautions: Do not exceed dose. MRP: ₹₹111. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 262,
+    "text": "Med-263 contains Metformin 500mg. It is used for Bacterial infection. Precautions: Not for children. MRP: ₹₹102. Manufacturer: Cipla."
+  },
+  {
+    "id": 263,
+    "text": "Med-264 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Do not exceed dose. MRP: ₹₹22. Manufacturer: Lupin."
+  },
+  {
+    "id": 264,
+    "text": "Med-265 contains Amoxicillin 500mg. It is used for Fever reduction. Precautions: Consult doctor if pregnant. MRP: ₹₹100. Manufacturer: Cipla."
+  },
+  {
+    "id": 265,
+    "text": "Med-266 contains Aspirin 75mg. It is used for Diabetes control. Precautions: Avoid if allergic. MRP: ₹₹31. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 266,
+    "text": "Med-267 contains Metformin 500mg. It is used for Fever reduction. Precautions: Avoid if allergic. MRP: ₹₹94. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 267,
+    "text": "Med-268 contains Ibuprofen 400mg. It is used for Bacterial infection. Precautions: Do not exceed dose. MRP: ₹₹121. Manufacturer: Cipla."
+  },
+  {
+    "id": 268,
+    "text": "Med-269 contains Aspirin 75mg. It is used for Bacterial infection. Precautions: Avoid if allergic. MRP: ₹₹75. Manufacturer: Glenmark."
+  },
+  {
+    "id": 269,
+    "text": "Med-270 contains Paracetamol 650mg. It is used for Diabetes control. Precautions: Take after meals. MRP: ₹₹91. Manufacturer: Cipla."
+  },
+  {
+    "id": 270,
+    "text": "Med-271 contains Ibuprofen 400mg. It is used for Bacterial infection. Precautions: Avoid alcohol. MRP: ₹₹139. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 271,
+    "text": "Med-272 contains Aspirin 75mg. It is used for Cardiac care. Precautions: Avoid alcohol. MRP: ₹₹78. Manufacturer: Glenmark."
+  },
+  {
+    "id": 272,
+    "text": "Med-273 contains Ciprofloxacin 250mg. It is used for Fever reduction. Precautions: Take after meals. MRP: ₹₹19. Manufacturer: Lupin."
+  },
+  {
+    "id": 273,
+    "text": "Med-274 contains Ciprofloxacin 250mg. It is used for Pain relief. Precautions: Consult doctor if pregnant. MRP: ₹₹53. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 274,
+    "text": "Med-275 contains Amoxicillin 500mg. It is used for Anti-inflammatory. Precautions: Not for children. MRP: ₹₹62. Manufacturer: Cipla."
+  },
+  {
+    "id": 275,
+    "text": "Med-276 contains Amoxicillin 500mg. It is used for Bacterial infection. Precautions: Consult doctor if pregnant. MRP: ₹₹102. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 276,
+    "text": "Med-277 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Do not exceed dose. MRP: ₹₹114. Manufacturer: Lupin."
+  },
+  {
+    "id": 277,
+    "text": "Med-278 contains Paracetamol 650mg. It is used for Anti-inflammatory. Precautions: Do not exceed dose. MRP: ₹₹47. Manufacturer: Glenmark."
+  },
+  {
+    "id": 278,
+    "text": "Med-279 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Take after meals. MRP: ₹₹95. Manufacturer: Cipla."
+  },
+  {
+    "id": 279,
+    "text": "Med-280 contains Ibuprofen 400mg. It is used for Fever reduction. Precautions: Take after meals. MRP: ₹₹117. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 280,
+    "text": "Med-281 contains Ciprofloxacin 250mg. It is used for Bacterial infection. Precautions: Consult doctor if pregnant. MRP: ₹₹130. Manufacturer: Cipla."
+  },
+  {
+    "id": 281,
+    "text": "Med-282 contains Metformin 500mg. It is used for Bacterial infection. Precautions: Not for children. MRP: ₹₹57. Manufacturer: Lupin."
+  },
+  {
+    "id": 282,
+    "text": "Med-283 contains Ciprofloxacin 250mg. It is used for Bacterial infection. Precautions: Take after meals. MRP: ₹₹131. Manufacturer: Lupin."
+  },
+  {
+    "id": 283,
+    "text": "Med-284 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Not for children. MRP: ₹₹84. Manufacturer: Cipla."
+  },
+  {
+    "id": 284,
+    "text": "Med-285 contains Ciprofloxacin 250mg. It is used for Pain relief. Precautions: Consult doctor if pregnant. MRP: ₹₹61. Manufacturer: Cipla."
+  },
+  {
+    "id": 285,
+    "text": "Med-286 contains Ibuprofen 400mg. It is used for Bacterial infection. Precautions: Avoid alcohol. MRP: ₹₹82. Manufacturer: Micro Labs."
+  },
+  {
+    "id": 286,
+    "text": "Med-287 contains Amoxicillin 500mg. It is used for Diabetes control. Precautions: Avoid alcohol. MRP: ₹₹62. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 287,
+    "text": "Med-288 contains Metformin 500mg. It is used for Bacterial infection. Precautions: Avoid alcohol. MRP: ₹₹61. Manufacturer: Lupin."
+  },
+  {
+    "id": 288,
+    "text": "Med-289 contains Ibuprofen 400mg. It is used for Pain relief. Precautions: Avoid if allergic. MRP: ₹₹65. Manufacturer: Cipla."
+  },
+  {
+    "id": 289,
+    "text": "Med-290 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Consult doctor if pregnant. MRP: ₹₹123. Manufacturer: Glenmark."
+  },
+  {
+    "id": 290,
+    "text": "Med-291 contains Paracetamol 650mg. It is used for Fever reduction. Precautions: Not for children. MRP: ₹₹137. Manufacturer: Glenmark."
+  },
+  {
+    "id": 291,
+    "text": "Med-292 contains Metformin 500mg. It is used for Anti-inflammatory. Precautions: Consult doctor if pregnant. MRP: ₹₹127. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 292,
+    "text": "Med-293 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Take after meals. MRP: ₹₹45. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 293,
+    "text": "Med-294 contains Paracetamol 650mg. It is used for Cardiac care. Precautions: Avoid if allergic. MRP: ₹₹116. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 294,
+    "text": "Med-295 contains Ibuprofen 400mg. It is used for Pain relief. Precautions: Take after meals. MRP: ₹₹97. Manufacturer: Dr. Reddy's."
+  },
+  {
+    "id": 295,
+    "text": "Med-296 contains Amoxicillin 500mg. It is used for Pain relief. Precautions: Avoid alcohol. MRP: ₹₹41. Manufacturer: Lupin."
+  },
+  {
+    "id": 296,
+    "text": "Med-297 contains Metformin 500mg. It is used for Fever reduction. Precautions: Avoid alcohol. MRP: ₹₹15. Manufacturer: Glenmark."
+  },
+  {
+    "id": 297,
+    "text": "Med-298 contains Metformin 500mg. It is used for Bacterial infection. Precautions: Take after meals. MRP: ₹₹39. Manufacturer: Sun Pharma."
+  },
+  {
+    "id": 298,
+    "text": "Med-299 contains Ibuprofen 400mg. It is used for Diabetes control. Precautions: Do not exceed dose. MRP: ₹₹32. Manufacturer: Cipla."
+  },
+  {
+    "id": 299,
+    "text": "Med-300 contains Ibuprofen 400mg. It is used for Bacterial infection. Precautions: Take after meals. MRP: ₹₹62. Manufacturer: Sun Pharma."
+  }
+]
