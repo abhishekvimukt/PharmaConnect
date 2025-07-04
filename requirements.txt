@@ -10,6 +10,7 @@ PyYAML>=6.0.1
 django-filter>=23.5
 django-debug-toolbar>=4.2.0
 gunicorn>=21.2.0  # Required for production deployment
+whitenoise>=6.6.0  # For serving static files in production
 
 # ML and RAG dependencies
 faiss-cpu>=1.7.4  # For vector similarity search
