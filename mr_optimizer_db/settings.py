@@ -47,7 +47,7 @@ INSTALLED_APPS = [
     'django_filters',
     'debug_toolbar',
     'optimizer',
-    'telegrambot',
+    # 'telegrambot',
     'catalog_ai',
     'corsheaders',
 ]
@@ -134,8 +134,8 @@ REST_FRAMEWORK = {
 }
 SIMPLE_JWT = {
    'AUTH_HEADER_TYPES': ('Bearer',),
-   'ACCESS_TOKEN_LIFETIME': timedelta(days=1),
-   'REFRESH_TOKEN_LIFETIME': timedelta(days=5),
+   'ACCESS_TOKEN_LIFETIME': timedelta(days=30),
+   'REFRESH_TOKEN_LIFETIME': timedelta(days=55),
 }
 # Password validation
 # https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators
