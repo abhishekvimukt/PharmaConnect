@@ -22,9 +22,18 @@ from rest_framework_simplejwt.views import (
     TokenObtainPairView,
     TokenRefreshView,
 )
+from django.http import HttpResponse
+from django.contrib.auth.models import User
 
 admin.site.site_header = 'PHARMA CONNECT'
 admin.site.index_title = 'Admin'
+
+def create_superuser(request):
+    if not User.objects.filter(username='admin').exists():
+        User.objects.create_superuser('admin', 'admin@example.com', 'admin123')
+        return HttpResponse("Superuser created.")
+    return HttpResponse("Superuser already exists.")
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -38,5 +47,6 @@ urlpatterns = [
     path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
     path('auth/', include('djoser.urls')),
     path('auth/', include('djoser.urls.jwt')),
-    
+    path('create-superuser/', create_superuser),  # 👈 Temporary
+   
 ]
