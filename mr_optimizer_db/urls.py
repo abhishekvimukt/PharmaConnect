@@ -29,7 +29,7 @@ admin.site.index_title = 'Admin'
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('__debug__',include(debug_toolbar.urls)),
-    path('telegram/', include('telegrambot.urls')),
+    # path('telegram/', include('telegrambot.urls')),
     path('api/', include('optimizer.urls')),
     path('api-auth/', include('rest_framework.urls')),
     path('api-token-auth/', obtain_auth_token),
