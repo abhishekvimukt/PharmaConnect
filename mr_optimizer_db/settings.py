@@ -30,6 +30,8 @@ ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', '*').split(',')
 
 CSRF_TRUSTED_ORIGINS = [
     "https://*.ngrok-free.app",
+    "https://*.onrender.com",
+    "https://pharmaconnect-pli0.onrender.com"
 ]
 
 # Application definition
