@@ -13,6 +13,7 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 import os
 from pathlib import Path
 from datetime import timedelta
+from django.core.management import call_command
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -122,6 +123,12 @@ if os.environ.get('DJANGO_ENV') == 'production':
             'PORT': os.environ.get('DB_PORT', '5432'),
         }
     }
+    
+    # Create superuser if running in production
+    try:
+        call_command('create_superuser')
+    except Exception as e:
+        print(f"Failed to create superuser: {e}")
 
 else:
     # Local development database settings (unchanged)
